@@ -1,0 +1,1664 @@
+Scenario - Fage Final
+Logfile written - 08/05/2013 09:42:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+Fage_P096a	1	Pulse	99	80862	90857	1
+Fage_P096a	2	Picture	Instruction Sternberg Symbols	81132	0	1	37320	2	0	next	other	0
+Fage_P096a	2	Pulse	99	93262	12130	1
+Fage_P096a	2	Pulse	99	105662	24530	1
+Fage_P096a	2	Pulse	99	118062	36930	1
+Fage_P096a	3	Picture	Encoding Sternberg Symbols	118452	0	1	24990	2	0	next	other	0
+Fage_P096a	3	Pulse	99	130462	12010	1
+Fage_P096a	3	Pulse	99	142861	24409	1
+Fage_P096a	4	Picture	Fixation Cross Sternberg Symbols after Encoding	143442	0	1	12496	2	0	next	other	0
+Fage_P096a	4	Pulse	99	155261	11819	1
+Fage_P096a	5	Picture	Stroop Sternberg	155938	0	1	24824	2	0	next	incorrect	12
+Fage_P096a	5	Response	2	166251	10313	1
+Fage_P096a	5	Pulse	99	167660	11722	1
+Fage_P096a	5	Pulse	99	180061	24123	1
+Fage_P096a	6	Picture	Fixation Cross Sternberg Symbols after Stroop	180762	0	1	37319	2	0	next	other	0
+Fage_P096a	6	Pulse	99	192460	11698	1
+Fage_P096a	6	Pulse	99	204860	24098	1
+Fage_P096a	6	Pulse	99	217260	36498	1
+Fage_P096a	7	Picture	Retrieval Sternberg Symbols	218081	0	1	24824	3	0	next	incorrect	21
+Fage_P096a	7	Pulse	99	229660	11579	1
+Fage_P096a	7	Response	2	231280	13199	1
+Fage_P096a	7	Pulse	99	242059	23978	1
+Fage_P096a	8	Picture	Fixation Cross after Retrieval	242905	0	2	112292	3	0	next	other	0
+Fage_P096a	8	Pulse	99	254459	11554	1
+Fage_P096a	8	Pulse	99	266859	23954	1
+Fage_P096a	8	Pulse	99	279259	36354	1
+Fage_P096a	8	Pulse	99	291658	48753	1
+Fage_P096a	8	Pulse	99	304058	61153	1
+Fage_P096a	8	Pulse	99	316458	73553	1
+Fage_P096a	8	Pulse	99	328858	85953	1
+Fage_P096a	8	Pulse	99	341258	98353	1
+Fage_P096a	8	Pulse	99	353657	110752	1
+Fage_P096a	9	Picture	Encoding Sternberg Symbols	355197	0	1	24824	2	0	next	other	0
+Fage_P096a	9	Pulse	99	366057	10860	1
+Fage_P096a	9	Pulse	99	378457	23260	1
+Fage_P096a	10	Picture	Fixation Cross Sternberg Symbols after Encoding	380021	0	1	12496	2	0	next	other	0
+Fage_P096a	10	Pulse	99	390857	10836	1
+Fage_P096a	11	Picture	Stroop Sternberg	392517	0	1	24824	2	0	next	incorrect	39
+Fage_P096a	11	Response	2	402356	9839	1
+Fage_P096a	11	Pulse	99	403256	10739	1
+Fage_P096a	11	Pulse	99	415656	23139	1
+Fage_P096a	12	Picture	Fixation Cross Sternberg Symbols after Stroop	417341	0	1	37319	2	0	next	other	0
+Fage_P096a	12	Pulse	99	428056	10715	1
+Fage_P096a	12	Pulse	99	440456	23115	1
+Fage_P096a	12	Pulse	99	452855	35514	1
+Fage_P096a	13	Picture	Retrieval Sternberg Symbols	454660	0	1	24824	2	0	next	incorrect	47
+Fage_P096a	13	Response	2	465135	10475	1
+Fage_P096a	13	Pulse	99	465255	10595	1
+Fage_P096a	13	Pulse	99	477655	22995	1
+Fage_P096a	14	Picture	Fixation Cross after Retrieval	479484	0	1	149445	2	0	next	other	0
+Fage_P096a	14	Pulse	99	490055	10571	1
+Fage_P096a	14	Pulse	99	502455	22971	1
+Fage_P096a	14	Pulse	99	514854	35370	1
+Fage_P096a	14	Pulse	99	527254	47770	1
+Fage_P096a	14	Pulse	99	539654	60170	1
+Fage_P096a	14	Pulse	99	552054	72570	1
+Fage_P096a	14	Pulse	99	564453	84969	1
+Fage_P096a	14	Pulse	99	576853	97369	1
+Fage_P096a	14	Pulse	99	589253	109769	1
+Fage_P096a	14	Pulse	99	601653	122169	1
+Fage_P096a	14	Pulse	99	614052	134568	1
+Fage_P096a	14	Pulse	99	626452	146968	1
+Fage_P096a	15	Picture	Encoding Sternberg Symbols	628929	0	1	24824	2	0	next	other	0
+Fage_P096a	15	Pulse	99	638852	9923	1
+Fage_P096a	15	Pulse	99	651252	22323	1
+Fage_P096a	16	Picture	Fixation Cross Sternberg Symbols after Encoding	653753	0	1	12495	2	0	next	other	0
+Fage_P096a	16	Pulse	99	663651	9898	1
+Fage_P096a	17	Picture	Stroop Sternberg	666248	0	1	24825	2	0	next	hit	70
+Fage_P096a	17	Pulse	99	676051	9803	1
+Fage_P096a	17	Response	1	678761	12513	1
+Fage_P096a	17	Pulse	99	688451	22203	1
+Fage_P096a	18	Picture	Fixation Cross Sternberg Symbols after Stroop	691073	0	1	37319	2	0	next	other	0
+Fage_P096a	18	Pulse	99	700851	9778	1
+Fage_P096a	18	Pulse	99	713251	22178	1
+Fage_P096a	18	Pulse	99	725650	34577	1
+Fage_P096a	19	Picture	Retrieval Sternberg Symbols	728392	0	1	24824	2	0	next	hit	77
+Fage_P096a	19	Response	1	734800	6408	1
+Fage_P096a	19	Pulse	99	738050	9658	1
+Fage_P096a	19	Pulse	99	750450	22058	1
+Fage_P096a	20	Picture	Fixation Cross after Retrieval	753216	0	1	124621	2	0	next	other	0
+Fage_P096a	20	Pulse	99	762850	9634	1
+Fage_P096a	20	Pulse	99	775249	22033	1
+Fage_P096a	20	Pulse	99	787649	34433	1
+Fage_P096a	20	Pulse	99	800049	46833	1
+Fage_P096a	20	Pulse	99	812449	59233	1
+Fage_P096a	20	Pulse	99	824848	71632	1
+Fage_P096a	20	Pulse	99	837248	84032	1
+Fage_P096a	20	Pulse	99	849648	96432	1
+Fage_P096a	20	Pulse	99	862048	108832	1
+Fage_P096a	20	Pulse	99	874447	121231	1
+Fage_P096a	21	Picture	Encoding Sternberg Symbols	877837	0	1	24824	2	0	next	other	0
+Fage_P096a	21	Pulse	99	886847	9010	1
+Fage_P096a	21	Pulse	99	899247	21410	1
+Fage_P096a	22	Picture	Fixation Cross Sternberg Symbols after Encoding	902661	0	1	12495	2	0	next	other	0
+Fage_P096a	22	Pulse	99	911647	8986	1
+Fage_P096a	23	Picture	Stroop Sternberg	915156	0	1	24824	2	0	next	hit	98
+Fage_P096a	23	Pulse	99	924047	8891	1
+Fage_P096a	23	Response	1	925216	10060	1
+Fage_P096a	23	Pulse	99	936446	21290	1
+Fage_P096a	24	Picture	Fixation Cross Sternberg Symbols after Stroop	939980	0	1	37320	2	0	next	other	0
+Fage_P096a	24	Pulse	99	948846	8866	1
+Fage_P096a	24	Pulse	99	961246	21266	1
+Fage_P096a	24	Pulse	99	973646	33666	1
+Fage_P096a	25	Picture	Retrieval Sternberg Symbols	977300	0	1	24824	2	0	next	incorrect	106
+Fage_P096a	25	Pulse	99	986045	8745	1
+Fage_P096a	25	Response	2	987575	10275	1
+Fage_P096a	25	Pulse	99	998445	21145	1
+Fage_P096a	26	Picture	Fixation Cross after Retrieval	1002124	0	1	136949	2	0	next	other	0
+Fage_P096a	26	Pulse	99	1010845	8721	1
+Fage_P096a	26	Pulse	99	1023245	21121	1
+Fage_P096a	26	Pulse	99	1035644	33520	1
+Fage_P096a	26	Pulse	99	1048044	45920	1
+Fage_P096a	26	Pulse	99	1060444	58320	1
+Fage_P096a	26	Pulse	99	1072844	70720	1
+Fage_P096a	26	Pulse	99	1085244	83120	1
+Fage_P096a	26	Pulse	99	1097653	95529	1
+Fage_P096a	26	Pulse	99	1110053	107929	1
+Fage_P096a	26	Pulse	99	1122453	120329	1
+Fage_P096a	26	Pulse	99	1134853	132729	1
+Fage_P096a	27	Picture	Encoding Sternberg Symbols	1139073	0	1	24824	2	0	next	other	0
+Fage_P096a	27	Pulse	99	1147252	8179	1
+Fage_P096a	27	Pulse	99	1159652	20579	1
+Fage_P096a	28	Picture	Fixation Cross Sternberg Symbols after Encoding	1163897	0	1	12495	3	0	next	other	0
+Fage_P096a	28	Pulse	99	1172052	8155	1
+Fage_P096a	29	Picture	Stroop Sternberg	1176392	0	2	24825	3	0	next	incorrect	127
+Fage_P096a	29	Pulse	99	1184452	8060	1
+Fage_P096a	29	Response	2	1186381	9989	1
+Fage_P096a	29	Pulse	99	1196852	20460	1
+Fage_P096a	30	Picture	Fixation Cross Sternberg Symbols after Stroop	1201217	0	1	37319	2	0	next	other	0
+Fage_P096a	30	Pulse	99	1209251	8034	1
+Fage_P096a	30	Pulse	99	1221651	20434	1
+Fage_P096a	30	Pulse	99	1234051	32834	1
+Fage_P096a	31	Picture	Retrieval Sternberg Symbols	1238536	0	1	24824	2	0	next	hit	135
+Fage_P096a	31	Pulse	99	1246451	7915	1
+Fage_P096a	31	Response	1	1248560	10024	1
+Fage_P096a	31	Pulse	99	1258850	20314	1
+Fage_P096a	32	Picture	Fixation Cross after Retrieval	1263360	0	1	124621	2	0	next	other	0
+Fage_P096a	32	Pulse	99	1271250	7890	1
+Fage_P096a	32	Pulse	99	1283650	20290	1
+Fage_P096a	32	Pulse	99	1296050	32690	1
+Fage_P096a	32	Pulse	99	1308449	45089	1
+Fage_P096a	32	Pulse	99	1320849	57489	1
+Fage_P096a	32	Pulse	99	1333249	69889	1
+Fage_P096a	32	Pulse	99	1345649	82289	1
+Fage_P096a	32	Pulse	99	1358048	94688	1
+Fage_P096a	32	Pulse	99	1370448	107088	1
+Fage_P096a	32	Pulse	99	1382848	119488	1
+Fage_P096a	33	Picture	Encoding Sternberg Symbols	1387981	0	1	24824	2	0	next	other	0
+Fage_P096a	33	Pulse	99	1395248	7267	1
+Fage_P096a	33	Pulse	99	1407648	19667	1
+Fage_P096a	34	Picture	Fixation Cross Sternberg Symbols after Encoding	1412805	0	1	12495	2	0	next	other	0
+Fage_P096a	34	Pulse	99	1420047	7242	1
+Fage_P096a	35	Picture	Stroop Sternberg	1425300	0	1	24824	2	0	next	incorrect	155
+Fage_P096a	35	Pulse	99	1432447	7147	1
+Fage_P096a	35	Response	2	1433377	8077	1
+Fage_P096a	35	Pulse	99	1444847	19547	1
+Fage_P096a	36	Picture	Fixation Cross Sternberg Symbols after Stroop	1450124	0	1	37320	2	0	next	other	0
+Fage_P096a	36	Pulse	99	1457247	7123	1
+Fage_P096a	36	Pulse	99	1469646	19522	1
+Fage_P096a	36	Pulse	99	1482046	31922	1
+Fage_P096a	37	Picture	Retrieval Sternberg Symbols	1487444	0	1	24824	2	0	next	hit	163
+Fage_P096a	37	Pulse	99	1494446	7002	1
+Fage_P096a	37	Response	1	1498116	10672	1
+Fage_P096a	37	Pulse	99	1506846	19402	1
+Fage_P096a	38	Picture	Fixation Cross after Retrieval	1512268	0	1	112292	2	0	next	other	0
+Fage_P096a	38	Pulse	99	1519245	6977	1
+Fage_P096a	38	Pulse	99	1531645	19377	1
+Fage_P096a	38	Pulse	99	1544045	31777	1
+Fage_P096a	38	Pulse	99	1556445	44177	1
+Fage_P096a	38	Pulse	99	1568844	56576	1
+Fage_P096a	38	Pulse	99	1581244	68976	1
+Fage_P096a	38	Pulse	99	1593644	81376	1
+Fage_P096a	38	Pulse	99	1606044	93776	1
+Fage_P096a	38	Pulse	99	1618444	106176	1
+Fage_P096a	39	Picture	Encoding Sternberg Symbols	1624560	0	1	24824	2	0	next	other	0
+Fage_P096a	39	Pulse	99	1630843	6283	1
+Fage_P096a	39	Pulse	99	1643243	18683	1
+Fage_P096a	40	Picture	Fixation Cross Sternberg Symbols after Encoding	1649384	0	1	12495	2	0	next	other	0
+Fage_P096a	40	Pulse	99	1655643	6259	1
+Fage_P096a	41	Picture	Stroop Sternberg	1661879	0	1	24824	2	0	next	hit	182
+Fage_P096a	41	Pulse	99	1668043	6164	1
+Fage_P096a	41	Response	1	1670772	8893	1
+Fage_P096a	41	Pulse	99	1680442	18563	1
+Fage_P096a	42	Picture	Fixation Cross Sternberg Symbols after Stroop	1686703	0	1	37320	2	0	next	other	0
+Fage_P096a	42	Pulse	99	1692842	6139	1
+Fage_P096a	42	Pulse	99	1705242	18539	1
+Fage_P096a	42	Pulse	99	1717642	30939	1
+Fage_P096a	43	Picture	Retrieval Sternberg Symbols	1724023	0	1	24824	2	0	next	hit	190
+Fage_P096a	43	Pulse	99	1730041	6018	1
+Fage_P096a	43	Response	1	1732511	8488	1
+Fage_P096a	43	Pulse	99	1742441	18418	1
+Fage_P096a	44	Picture	Fixation Cross after Retrieval	1748847	0	1	112291	3	0	next	other	0
+Fage_P096a	44	Pulse	99	1754841	5994	1
+Fage_P096a	44	Pulse	99	1767241	18394	1
+Fage_P096a	44	Pulse	99	1779641	30794	1
+Fage_P096a	44	Pulse	99	1792040	43193	1
+Fage_P096a	44	Pulse	99	1804440	55593	1
+Fage_P096a	44	Pulse	99	1816840	67993	1
+Fage_P096a	44	Pulse	99	1829240	80393	1
+Fage_P096a	44	Pulse	99	1841639	92792	1
+Fage_P096a	44	Pulse	99	1854039	105192	1
+Fage_P096a	45	Picture	Encoding Sternberg Symbols	1861138	0	2	24825	3	0	next	other	0
+Fage_P096a	45	Pulse	99	1866439	5301	1
+Fage_P096a	45	Pulse	99	1878839	17701	1
+Fage_P096a	46	Picture	Fixation Cross Sternberg Symbols after Encoding	1885963	0	1	12495	2	0	next	other	0
+Fage_P096a	46	Pulse	99	1891238	5275	1
+Fage_P096a	47	Picture	Stroop Sternberg	1898458	0	1	24824	2	0	next	incorrect	209
+Fage_P096a	47	Pulse	99	1903638	5180	1
+Fage_P096a	47	Response	2	1907368	8910	1
+Fage_P096a	47	Pulse	99	1916038	17580	1
+Fage_P096a	48	Picture	Fixation Cross Sternberg Symbols after Stroop	1923282	0	1	37320	2	0	next	other	0
+Fage_P096a	48	Pulse	99	1928438	5156	1
+Fage_P096a	48	Pulse	99	1940838	17556	1
+Fage_P096a	48	Pulse	99	1953237	29955	1
+Fage_P096a	49	Picture	Retrieval Sternberg Symbols	1960602	0	1	24824	2	0	next	incorrect	217
+Fage_P096a	49	Pulse	99	1965637	5035	1
+Fage_P096a	49	Response	2	1975737	15135	1
+Fage_P096a	49	Pulse	99	1978037	17435	1
+Fage_P096a	50	Picture	Fixation Cross after Retrieval	1985426	0	1	136949	2	0	next	other	0
+Fage_P096a	50	Pulse	99	1990437	5011	1
+Fage_P096a	50	Pulse	99	2002836	17410	1
+Fage_P096a	50	Pulse	99	2015236	29810	1
+Fage_P096a	50	Pulse	99	2027636	42210	1
+Fage_P096a	50	Pulse	99	2040036	54610	1
+Fage_P096a	50	Pulse	99	2052435	67009	1
+Fage_P096a	50	Pulse	99	2064835	79409	1
+Fage_P096a	50	Pulse	99	2077235	91809	1
+Fage_P096a	50	Pulse	99	2089635	104209	1
+Fage_P096a	50	Pulse	99	2102034	116608	1
+Fage_P096a	50	Pulse	99	2114434	129008	1
+Fage_P096a	51	Picture	Encoding Sternberg Symbols	2122375	0	1	24824	2	0	next	other	0
+Fage_P096a	51	Pulse	99	2126834	4459	1
+Fage_P096a	51	Pulse	99	2139234	16859	1
+Fage_P096a	52	Picture	Fixation Cross Sternberg Symbols after Encoding	2147199	0	1	12495	3	0	next	other	0
+Fage_P096a	52	Pulse	99	2151634	4435	1
+Fage_P096a	53	Picture	Stroop Sternberg	2159694	0	2	24825	3	0	next	hit	238
+Fage_P096a	53	Pulse	99	2164033	4339	1
+Fage_P096a	53	Response	1	2170593	10899	1
+Fage_P096a	53	Pulse	99	2176433	16739	1
+Fage_P096a	54	Picture	Fixation Cross Sternberg Symbols after Stroop	2184519	0	1	37319	2	0	next	other	0
+Fage_P096a	54	Pulse	99	2188833	4314	1
+Fage_P096a	54	Pulse	99	2201233	16714	1
+Fage_P096a	54	Pulse	99	2213632	29113	1
+Fage_P096a	55	Picture	Retrieval Sternberg Symbols	2221838	0	1	24824	2	0	next	incorrect	246
+Fage_P096a	55	Pulse	99	2226032	4194	1
+Fage_P096a	55	Response	2	2230442	8604	1
+Fage_P096a	55	Pulse	99	2238432	16594	1
+Fage_P096a	56	Picture	Fixation Cross after Retrieval	2246662	0	1	124621	2	0	next	other	0
+Fage_P096a	56	Pulse	99	2250832	4170	1
+Fage_P096a	56	Pulse	99	2263231	16569	1
+Fage_P096a	56	Pulse	99	2275631	28969	1
+Fage_P096a	56	Pulse	99	2288031	41369	1
+Fage_P096a	56	Pulse	99	2300431	53769	1
+Fage_P096a	56	Pulse	99	2312831	66169	1
+Fage_P096a	56	Pulse	99	2325230	78568	1
+Fage_P096a	56	Pulse	99	2337630	90968	1
+Fage_P096a	56	Pulse	99	2350030	103368	1
+Fage_P096a	56	Pulse	99	2362430	115768	1
+Fage_P096a	57	Picture	Encoding Sternberg Symbols	2371283	0	1	24824	2	0	next	other	0
+Fage_P096a	57	Pulse	99	2374829	3546	1
+Fage_P096a	57	Pulse	99	2387229	15946	1
+Fage_P096a	58	Picture	Fixation Cross Sternberg Symbols after Encoding	2396107	0	1	12495	2	0	next	other	0
+Fage_P096a	58	Pulse	99	2399629	3522	1
+Fage_P096a	59	Picture	Stroop Sternberg	2408602	0	1	24824	2	0	next	incorrect	266
+Fage_P096a	59	Pulse	99	2412029	3427	1
+Fage_P096a	59	Response	2	2418458	9856	1
+Fage_P096a	59	Pulse	99	2424428	15826	1
+Fage_P096a	60	Picture	Fixation Cross Sternberg Symbols after Stroop	2433426	0	1	37320	2	0	next	other	0
+Fage_P096a	60	Pulse	99	2436828	3402	1
+Fage_P096a	60	Pulse	99	2449228	15802	1
+Fage_P096a	60	Pulse	99	2461628	28202	1
+Fage_P096a	61	Picture	Retrieval Sternberg Symbols	2470746	0	1	24824	2	0	next	incorrect	274
+Fage_P096a	61	Pulse	99	2474028	3282	1
+Fage_P096a	61	Response	2	2485937	15191	1
+Fage_P096a	61	Pulse	99	2486427	15681	1
+Fage_P096a	62	Picture	Fixation Cross after Retrieval	2495570	0	1	149444	3	0	next	other	0
+Fage_P096a	62	Pulse	99	2498827	3257	1
+Fage_P096a	62	Pulse	99	2511227	15657	1
+Fage_P096a	62	Pulse	99	2523627	28057	1
+Fage_P096a	62	Pulse	99	2536026	40456	1
+Fage_P096a	62	Pulse	99	2548426	52856	1
+Fage_P096a	62	Pulse	99	2560826	65256	1
+Fage_P096a	62	Pulse	99	2573226	77656	1
+Fage_P096a	62	Pulse	99	2585625	90055	1
+Fage_P096a	62	Pulse	99	2598025	102455	1
+Fage_P096a	62	Pulse	99	2610425	114855	1
+Fage_P096a	62	Pulse	99	2622825	127255	1
+Fage_P096a	62	Pulse	99	2635224	139654	1
+Fage_P096a	63	Picture	Encoding Sternberg Symbols	2645014	0	2	24825	3	0	next	other	0
+Fage_P096a	63	Pulse	99	2647624	2610	1
+Fage_P096a	63	Pulse	99	2660024	15010	1
+Fage_P096a	64	Picture	Fixation Cross Sternberg Symbols after Encoding	2669839	0	1	12495	2	0	next	other	0
+Fage_P096a	64	Pulse	99	2672424	2585	1
+Fage_P096a	65	Picture	Stroop Sternberg	2682334	0	1	24824	2	0	next	incorrect	296
+Fage_P096a	65	Pulse	99	2684824	2490	1
+Fage_P096a	65	Response	2	2691863	9529	1
+Fage_P096a	65	Pulse	99	2697223	14889	1
+Fage_P096a	66	Picture	Fixation Cross Sternberg Symbols after Stroop	2707158	0	1	37320	2	0	next	other	0
+Fage_P096a	66	Pulse	99	2709623	2465	1
+Fage_P096a	66	Pulse	99	2722023	14865	1
+Fage_P096a	66	Pulse	99	2734423	27265	1
+Fage_P096a	67	Picture	Retrieval Sternberg Symbols	2744478	0	1	24824	2	0	next	incorrect	305
+Fage_P096a	67	Pulse	99	2746822	2344	1
+Fage_P096a	67	Pulse	99	2759222	14744	1
+Fage_P096a	67	Response	2	2760692	16214	1
+Fage_P096a	68	Picture	Fixation Cross after Retrieval	2769302	0	1	124620	2	0	next	other	0
+Fage_P096a	68	Pulse	99	2771622	2320	1
+Fage_P096a	68	Pulse	99	2784032	14730	1
+Fage_P096a	68	Pulse	99	2796432	27130	1
+Fage_P096a	68	Pulse	99	2808831	39529	1
+Fage_P096a	68	Pulse	99	2821231	51929	1
+Fage_P096a	68	Pulse	99	2833631	64329	1
+Fage_P096a	68	Pulse	99	2846031	76729	1
+Fage_P096a	68	Pulse	99	2858430	89128	1
+Fage_P096a	68	Pulse	99	2870830	101528	1
+Fage_P096a	68	Pulse	99	2883230	113928	1
+Fage_P096a	69	Picture	Encoding Sternberg Symbols	2893922	0	1	24824	2	0	next	other	0
+Fage_P096a	69	Pulse	99	2895630	1708	1
+Fage_P096a	69	Pulse	99	2908029	14107	1
+Fage_P096a	70	Picture	Fixation Cross Sternberg Symbols after Encoding	2918746	0	1	12496	2	0	next	other	0
+Fage_P096a	70	Pulse	99	2920429	1683	1
+Fage_P096a	71	Picture	Stroop Sternberg	2931242	0	1	24824	2	0	next	incorrect	324
+Fage_P096a	71	Pulse	99	2932829	1587	1
+Fage_P096a	71	Response	2	2945019	13777	1
+Fage_P096a	71	Pulse	99	2945228	13986	1
+Fage_P096a	72	Picture	Fixation Cross Sternberg Symbols after Stroop	2956066	0	1	37319	2	0	next	other	0
+Fage_P096a	72	Pulse	99	2957628	1562	1
+Fage_P096a	72	Pulse	99	2970028	13962	1
+Fage_P096a	72	Pulse	99	2982428	26362	1
+Fage_P096a	73	Picture	Retrieval Sternberg Symbols	2993385	0	1	24824	2	0	next	incorrect	332
+Fage_P096a	73	Pulse	99	2994828	1443	1
+Fage_P096a	73	Response	2	2999557	6172	1
+Fage_P096a	73	Pulse	99	3007227	13842	1
+Fage_P096a	74	Picture	Fixation Cross after Retrieval	3018209	0	1	112292	2	0	next	other	0
+Fage_P096a	74	Pulse	99	3019627	1418	1
+Fage_P096a	74	Pulse	99	3032027	13818	1
+Fage_P096a	74	Pulse	99	3044427	26218	1
+Fage_P096a	74	Pulse	99	3056827	38618	1
+Fage_P096a	74	Pulse	99	3069226	51017	1
+Fage_P096a	74	Pulse	99	3081626	63417	1
+Fage_P096a	74	Pulse	99	3094026	75817	1
+Fage_P096a	74	Pulse	99	3106426	88217	1
+Fage_P096a	74	Pulse	99	3118825	100616	1
+Fage_P096a	75	Picture	Encoding Sternberg Symbols	3130501	0	1	24824	2	0	next	other	0
+Fage_P096a	75	Pulse	99	3131225	724	1
+Fage_P096a	75	Pulse	99	3143625	13124	1
+Fage_P096a	76	Picture	Fixation Cross Sternberg Symbols after Encoding	3155325	0	1	12496	2	0	next	other	0
+Fage_P096a	76	Pulse	99	3156025	700	1
+Fage_P096a	77	Picture	Stroop Sternberg	3167821	0	1	24824	2	0	next	hit	351
+Fage_P096a	77	Pulse	99	3168425	604	1
+Fage_P096a	77	Response	1	3175414	7593	1
+Fage_P096a	77	Pulse	99	3180824	13003	1
+Fage_P096a	78	Picture	Fixation Cross Sternberg Symbols after Stroop	3192645	0	1	37319	2	0	next	other	0
+Fage_P096a	78	Pulse	99	3193224	579	1
+Fage_P096a	78	Pulse	99	3205624	12979	1
+Fage_P096a	78	Pulse	99	3218024	25379	1
+Fage_P096a	79	Picture	Retrieval Sternberg Symbols	3229964	0	1	24824	2	0	next	hit	360
+Fage_P096a	79	Pulse	99	3230423	459	1
+Fage_P096a	79	Pulse	99	3242823	12859	1
+Fage_P096a	79	Response	1	3245293	15329	1
+Fage_P096a	80	Picture	Fixation Cross after Retrieval	3254788	0	1	124621	2	0	next	other	0
+Fage_P096a	80	Pulse	99	3255223	435	1
+Fage_P096a	80	Pulse	99	3267623	12835	1
+Fage_P096a	80	Pulse	99	3280022	25234	1
+Fage_P096a	80	Pulse	99	3292422	37634	1
+Fage_P096a	80	Pulse	99	3304822	50034	1
+Fage_P096a	80	Pulse	99	3317222	62434	1
+Fage_P096a	80	Pulse	99	3329621	74833	1
+Fage_P096a	80	Pulse	99	3342021	87233	1
+Fage_P096a	80	Pulse	99	3354421	99633	1
+Fage_P096a	80	Pulse	99	3366821	112033	1
+Fage_P096a	80	Pulse	99	3379221	124433	1
+Fage_P096a	81	Picture	Encoding Sternberg Symbols	3379409	0	1	24824	2	0	next	other	0
+Fage_P096a	81	Pulse	99	3391620	12211	1
+Fage_P096a	81	Pulse	99	3404020	24611	1
+Fage_P096a	82	Picture	Fixation Cross Sternberg Symbols after Encoding	3404233	0	1	12495	2	0	next	other	0
+Fage_P096a	82	Pulse	99	3416420	12187	1
+Fage_P096a	83	Picture	Stroop Sternberg	3416728	0	1	24824	2	0	next	incorrect	379
+Fage_P096a	83	Response	2	3424090	7362	1
+Fage_P096a	83	Pulse	99	3428819	12091	1
+Fage_P096a	83	Pulse	99	3441219	24491	1
+Fage_P096a	84	Picture	Fixation Cross Sternberg Symbols after Stroop	3441552	0	1	37320	2	0	next	other	0
+Fage_P096a	84	Pulse	99	3453619	12067	1
+Fage_P096a	84	Pulse	99	3466019	24467	1
+Fage_P096a	84	Pulse	99	3478419	36867	1
+Fage_P096a	85	Picture	Retrieval Sternberg Symbols	3478872	0	1	24824	2	0	next	incorrect	387
+Fage_P096a	85	Response	2	3490768	11896	1
+Fage_P096a	85	Pulse	99	3490818	11946	1
+Fage_P096a	85	Pulse	99	3503218	24346	1
+Fage_P096a	86	Picture	Fixation Cross after Retrieval	3503696	0	1	124620	2	0	next	other	0
+Fage_P096a	86	Pulse	99	3515618	11922	1
+Fage_P096a	86	Pulse	99	3528018	24322	1
+Fage_P096a	86	Pulse	99	3540418	36722	1
+Fage_P096a	86	Pulse	99	3552817	49121	1
+Fage_P096a	86	Pulse	99	3565217	61521	1
+Fage_P096a	86	Pulse	99	3577617	73921	1
+Fage_P096a	86	Pulse	99	3590017	86321	1
+Fage_P096a	86	Pulse	99	3602416	98720	1
+Fage_P096a	86	Pulse	99	3614816	111120	1
+Fage_P096a	86	Pulse	99	3627216	123520	1
+Fage_P096a	87	Picture	Encoding Sternberg Symbols	3628316	0	1	24825	2	0	next	other	0
+Fage_P096a	87	Pulse	99	3639616	11300	1
+Fage_P096a	87	Pulse	99	3652015	23699	1
+Fage_P096a	88	Picture	Fixation Cross Sternberg Symbols after Encoding	3653141	0	1	12495	2	0	next	other	0
+Fage_P096a	88	Pulse	99	3664415	11274	1
+Fage_P096a	89	Picture	Stroop Sternberg	3665636	0	1	24824	2	0	next	incorrect	407
+Fage_P096a	89	Response	2	3672525	6889	1
+Fage_P096a	89	Pulse	99	3676815	11179	1
+Fage_P096a	89	Pulse	99	3689215	23579	1
+Fage_P096a	90	Picture	Fixation Cross Sternberg Symbols after Stroop	3690460	0	1	37320	2	0	next	other	0
+Fage_P096a	90	Pulse	99	3701614	11154	1
+Fage_P096a	90	Pulse	99	3714014	23554	1
+Fage_P096a	90	Pulse	99	3726414	35954	1
+Fage_P096a	91	Picture	Retrieval Sternberg Symbols	3727780	0	1	24824	2	0	next	incorrect	415
+Fage_P096a	91	Response	2	3735864	8084	1
+Fage_P096a	91	Pulse	99	3738814	11034	1
+Fage_P096a	91	Pulse	99	3751214	23434	1
+Fage_P096a	92	Picture	Fixation Cross after Retrieval	3752604	0	1	112291	2	0	next	other	0
+Fage_P096a	92	Pulse	99	3763613	11009	1
+Fage_P096a	92	Pulse	99	3776013	23409	1
+Fage_P096a	92	Pulse	99	3788413	35809	1
+Fage_P096a	92	Pulse	99	3800813	48209	1
+Fage_P096a	92	Pulse	99	3813212	60608	1
+Fage_P096a	92	Pulse	99	3825612	73008	1
+Fage_P096a	92	Pulse	99	3838012	85408	1
+Fage_P096a	92	Pulse	99	3850412	97808	1
+Fage_P096a	92	Pulse	99	3862811	110207	1
+Fage_P096a	93	Picture	Encoding Sternberg Symbols	3864895	0	1	24824	3	0	next	other	0
+Fage_P096a	93	Pulse	99	3875211	10316	1
+Fage_P096a	93	Pulse	99	3887611	22716	1
+Fage_P096a	94	Picture	Fixation Cross Sternberg Symbols after Encoding	3889719	0	2	12496	3	0	next	other	0
+Fage_P096a	94	Pulse	99	3900011	10292	1
+Fage_P096a	95	Picture	Stroop Sternberg	3902215	0	1	24824	2	0	next	incorrect	434
+Fage_P096a	95	Response	2	3910991	8776	1
+Fage_P096a	95	Pulse	99	3912410	10195	1
+Fage_P096a	95	Pulse	99	3924810	22595	1
+Fage_P096a	96	Picture	Fixation Cross Sternberg Symbols after Stroop	3927039	0	1	37319	3	0	next	other	0
+Fage_P096a	96	Pulse	99	3937210	10171	1
+Fage_P096a	96	Pulse	99	3949610	22571	1
+Fage_P096a	96	Pulse	99	3962010	34971	1
+Fage_P096a	97	Picture	Retrieval Sternberg Symbols	3964358	0	2	24825	3	0	next	hit	442
+Fage_P096a	97	Response	1	3972699	8341	1
+Fage_P096a	97	Pulse	99	3974409	10051	1
+Fage_P096a	97	Pulse	99	3986809	22451	1
+Fage_P096a	98	Picture	Fixation Cross after Retrieval	3989183	0	1	136949	2	0	next	other	0
+Fage_P096a	98	Pulse	99	3999209	10026	1
+Fage_P096a	98	Pulse	99	4011609	22426	1
+Fage_P096a	98	Pulse	99	4024008	34825	1
+Fage_P096a	98	Pulse	99	4036408	47225	1
+Fage_P096a	98	Pulse	99	4048808	59625	1
+Fage_P096a	98	Pulse	99	4061208	72025	1
+Fage_P096a	98	Pulse	99	4073607	84424	1
+Fage_P096a	98	Pulse	99	4086007	96824	1
+Fage_P096a	98	Pulse	99	4098407	109224	1
+Fage_P096a	98	Pulse	99	4110807	121624	1
+Fage_P096a	98	Pulse	99	4123206	134023	1
+Fage_P096a	99	Picture	Encoding Sternberg Symbols	4126132	0	1	24824	2	0	next	other	0
+Fage_P096a	99	Pulse	99	4135606	9474	1
+Fage_P096a	99	Pulse	99	4148006	21874	1
+Fage_P096a	100	Picture	Fixation Cross Sternberg Symbols after Encoding	4150956	0	1	12495	2	0	next	other	0
+Fage_P096a	100	Pulse	99	4160406	9450	1
+Fage_P096a	101	Picture	Stroop Sternberg	4163451	0	1	24824	2	0	next	incorrect	463
+Fage_P096a	101	Response	2	4171276	7825	1
+Fage_P096a	101	Pulse	99	4172805	9354	1
+Fage_P096a	101	Pulse	99	4185205	21754	1
+Fage_P096a	102	Picture	Fixation Cross Sternberg Symbols after Stroop	4188275	0	1	37320	2	0	next	other	0
+Fage_P096a	102	Pulse	99	4197605	9330	1
+Fage_P096a	102	Pulse	99	4210005	21730	1
+Fage_P096a	102	Pulse	99	4222405	34130	1
+Fage_P096a	103	Picture	Retrieval Sternberg Symbols	4225595	0	1	24824	2	0	next	hit	472
+Fage_P096a	103	Pulse	99	4234804	9209	1
+Fage_P096a	103	Response	1	4238624	13029	1
+Fage_P096a	103	Pulse	99	4247204	21609	1
+Fage_P096a	104	Picture	Fixation Cross after Retrieval	4250419	0	1	149445	2	0	next	other	0
+Fage_P096a	104	Pulse	99	4259604	9185	1
+Fage_P096a	104	Pulse	99	4272004	21585	1
+Fage_P096a	104	Pulse	99	4284403	33984	1
+Fage_P096a	104	Pulse	99	4296803	46384	1
+Fage_P096a	104	Pulse	99	4309203	58784	1
+Fage_P096a	104	Pulse	99	4321603	71184	1
+Fage_P096a	104	Pulse	99	4334003	83584	1
+Fage_P096a	104	Pulse	99	4346402	95983	1
+Fage_P096a	104	Pulse	99	4358802	108383	1
+Fage_P096a	104	Pulse	99	4371202	120783	1
+Fage_P096a	104	Pulse	99	4383602	133183	1
+Fage_P096a	104	Pulse	99	4396001	145582	1
+Fage_P096a	105	Picture	Encoding Sternberg Symbols	4399864	0	1	24824	2	0	next	other	0
+Fage_P096a	105	Pulse	99	4408401	8537	1
+Fage_P096a	105	Pulse	99	4420801	20937	1
+Fage_P096a	106	Picture	Fixation Cross Sternberg Symbols after Encoding	4424688	0	1	12495	2	0	next	other	0
+Fage_P096a	106	Pulse	99	4433201	8513	1
+Fage_P096a	107	Picture	Stroop Sternberg	4437183	0	1	24824	2	0	next	hit	494
+Fage_P096a	107	Pulse	99	4445601	8418	1
+Fage_P096a	107	Response	1	4445890	8707	1
+Fage_P096a	107	Pulse	99	4458000	20817	1
+Fage_P096a	108	Picture	Fixation Cross Sternberg Symbols after Stroop	4462007	0	1	37320	2	0	next	other	0
+Fage_P096a	108	Pulse	99	4470400	8393	1
+Fage_P096a	108	Pulse	99	4482800	20793	1
+Fage_P096a	108	Pulse	99	4495200	33193	1
+Fage_P096a	109	Picture	Retrieval Sternberg Symbols	4499327	0	1	24824	2	0	next	incorrect	502
+Fage_P096a	109	Pulse	99	4507599	8272	1
+Fage_P096a	109	Response	2	4508959	9632	1
+Fage_P096a	109	Pulse	99	4520009	20682	1
+Fage_P096a	110	Picture	Fixation Cross after Retrieval	4524151	0	1	136949	2	0	next	other	0
+Fage_P096a	110	Pulse	99	4532409	8258	1
+Fage_P096a	110	Pulse	99	4544809	20658	1
+Fage_P096a	110	Pulse	99	4557208	33057	1
+Fage_P096a	110	Pulse	99	4569608	45457	1
+Fage_P096a	110	Pulse	99	4582008	57857	1
+Fage_P096a	110	Pulse	99	4594408	70257	1
+Fage_P096a	110	Pulse	99	4606807	82656	1
+Fage_P096a	110	Pulse	99	4619207	95056	1
+Fage_P096a	110	Pulse	99	4631607	107456	1
+Fage_P096a	110	Pulse	99	4644007	119856	1
+Fage_P096a	110	Pulse	99	4656407	132256	1
+Fage_P096a	111	Picture	Encoding Sternberg Symbols	4661100	0	1	24824	2	0	next	other	0
+Fage_P096a	111	Pulse	99	4668806	7706	1
+Fage_P096a	111	Pulse	99	4681206	20106	1
+Fage_P096a	112	Picture	Fixation Cross Sternberg Symbols after Encoding	4685924	0	1	12496	2	0	next	other	0
+Fage_P096a	112	Pulse	99	4693606	7682	1
+Fage_P096a	113	Picture	Stroop Sternberg	4698420	0	1	24824	2	0	next	incorrect	523
+Fage_P096a	113	Pulse	99	4706006	7586	1
+Fage_P096a	113	Response	2	4706935	8515	1
+Fage_P096a	113	Pulse	99	4718405	19985	1
+Fage_P096a	114	Picture	Fixation Cross Sternberg Symbols after Stroop	4723244	0	1	37319	2	0	next	other	0
+Fage_P096a	114	Pulse	99	4730805	7561	1
+Fage_P096a	114	Pulse	99	4743205	19961	1
+Fage_P096a	114	Pulse	99	4755605	32361	1
+Fage_P096a	115	Picture	Retrieval Sternberg Symbols	4760563	0	1	24824	2	0	next	incorrect	531
+Fage_P096a	115	Pulse	99	4768004	7441	1
+Fage_P096a	115	Response	2	4774894	14331	1
+Fage_P096a	115	Pulse	99	4780404	19841	1
+Fage_P096a	116	Picture	Fixation Cross after Retrieval	4785387	0	1	112292	2	0	next	other	0
+Fage_P096a	116	Pulse	99	4792804	7417	1
+Fage_P096a	116	Pulse	99	4805204	19817	1
+Fage_P096a	116	Pulse	99	4817603	32216	1
+Fage_P096a	116	Pulse	99	4830003	44616	1
+Fage_P096a	116	Pulse	99	4842403	57016	1
+Fage_P096a	116	Pulse	99	4854803	69416	1
+Fage_P096a	116	Pulse	99	4867203	81816	1
+Fage_P096a	116	Pulse	99	4879602	94215	1
+Fage_P096a	116	Pulse	99	4892002	106615	1
+Fage_P096a	117	Picture	Encoding Sternberg Symbols	4897679	0	1	24824	2	0	next	other	0
+Fage_P096a	117	Pulse	99	4904402	6723	1
+Fage_P096a	117	Pulse	99	4916802	19123	1
+Fage_P096a	118	Picture	Fixation Cross Sternberg Symbols after Encoding	4922503	0	1	12495	3	0	next	other	0
+Fage_P096a	118	Pulse	99	4929201	6698	1
+Fage_P096a	119	Picture	Stroop Sternberg	4934998	0	2	24825	3	0	next	incorrect	550
+Fage_P096a	119	Pulse	99	4941601	6603	1
+Fage_P096a	119	Response	2	4942791	7793	1
+Fage_P096a	119	Pulse	99	4954001	19003	1
+Fage_P096a	120	Picture	Fixation Cross Sternberg Symbols after Stroop	4959823	0	1	37319	2	0	next	other	0
+Fage_P096a	120	Pulse	99	4966401	6578	1
+Fage_P096a	120	Pulse	99	4978801	18978	1
+Fage_P096a	120	Pulse	99	4991200	31377	1
+Fage_P096a	121	Picture	Retrieval Sternberg Symbols	4997142	0	1	24824	2	0	next	incorrect	558
+Fage_P096a	121	Pulse	99	5003600	6458	1
+Fage_P096a	121	Response	2	5010970	13828	1
+Fage_P096a	121	Pulse	99	5016000	18858	1
+Fage_P096a	122	Picture	Fixation Cross after Retrieval	5021966	0	1	149445	2	0	next	other	0
+Fage_P096a	122	Pulse	99	5028400	6434	1
+Fage_P096a	122	Pulse	99	5040799	18833	1
+Fage_P096a	122	Pulse	99	5053199	31233	1
+Fage_P096a	122	Pulse	99	5065599	43633	1
+Fage_P096a	122	Pulse	99	5077999	56033	1
+Fage_P096a	122	Pulse	99	5090398	68432	1
+Fage_P096a	122	Pulse	99	5102798	80832	1
+Fage_P096a	122	Pulse	99	5115198	93232	1
+Fage_P096a	122	Pulse	99	5127598	105632	1
+Fage_P096a	122	Pulse	99	5139997	118031	1
+Fage_P096a	122	Pulse	99	5152397	130431	1
+Fage_P096a	122	Pulse	99	5164797	142831	1
+Fage_P096a	123	Picture	Encoding Sternberg Symbols	5171411	0	1	24824	2	0	next	other	0
+Fage_P096a	123	Pulse	99	5177197	5786	1
+Fage_P096a	123	Pulse	99	5189597	18186	1
+Fage_P096a	124	Picture	Fixation Cross Sternberg Symbols after Encoding	5196235	0	1	12495	2	0	next	other	0
+Fage_P096a	124	Pulse	99	5201996	5761	1
+Fage_P096a	125	Picture	Stroop Sternberg	5208730	0	1	24824	2	0	next	incorrect	580
+Fage_P096a	125	Pulse	99	5214396	5666	1
+Fage_P096a	125	Response	2	5219836	11106	1
+Fage_P096a	125	Pulse	99	5226796	18066	1
+Fage_P096a	126	Picture	Fixation Cross Sternberg Symbols after Stroop	5233554	0	1	37320	2	0	next	other	0
+Fage_P096a	126	Pulse	99	5239196	5642	1
+Fage_P096a	126	Pulse	99	5251595	18041	1
+Fage_P096a	126	Pulse	99	5263995	30441	1
+Fage_P096a	127	Picture	Retrieval Sternberg Symbols	5270874	0	1	24824	2	0	next	hit	588
+Fage_P096a	127	Pulse	99	5276395	5521	1
+Fage_P096a	127	Response	1	5281845	10971	1
+Fage_P096a	127	Pulse	99	5288795	17921	1
+Fage_P096a	128	Picture	Fixation Cross after Retrieval	5295698	0	1	124620	3	0	next	other	0
+Fage_P096a	128	Pulse	99	5301194	5496	1
+Fage_P096a	128	Pulse	99	5313594	17896	1
+Fage_P096a	128	Pulse	99	5325994	30296	1
+Fage_P096a	128	Pulse	99	5338394	42696	1
+Fage_P096a	128	Pulse	99	5350794	55096	1
+Fage_P096a	128	Pulse	99	5363193	67495	1
+Fage_P096a	128	Pulse	99	5375593	79895	1
+Fage_P096a	128	Pulse	99	5387993	92295	1
+Fage_P096a	128	Pulse	99	5400393	104695	1
+Fage_P096a	128	Pulse	99	5412792	117094	1
+Fage_P096a	129	Picture	Encoding Sternberg Symbols	5420318	0	2	24825	3	0	next	other	0
+Fage_P096a	129	Pulse	99	5425192	4874	1
+Fage_P096a	129	Pulse	99	5437592	17274	1
+Fage_P096a	130	Picture	Fixation Cross Sternberg Symbols after Encoding	5445143	0	1	12495	2	0	next	other	0
+Fage_P096a	130	Pulse	99	5449992	4849	1
+Fage_P096a	131	Picture	Stroop Sternberg	5457638	0	1	24824	2	0	next	incorrect	608
+Fage_P096a	131	Pulse	99	5462391	4753	1
+Fage_P096a	131	Response	2	5464881	7243	1
+Fage_P096a	131	Pulse	99	5474791	17153	1
+Fage_P096a	132	Picture	Fixation Cross Sternberg Symbols after Stroop	5482462	0	1	37320	2	0	next	other	0
+Fage_P096a	132	Pulse	99	5487191	4729	1
+Fage_P096a	132	Pulse	99	5499591	17129	1
+Fage_P096a	132	Pulse	99	5511990	29528	1
+Fage_P096a	133	Picture	Retrieval Sternberg Symbols	5519782	0	1	24824	2	0	next	hit	616
+Fage_P096a	133	Pulse	99	5524390	4608	1
+Fage_P096a	133	Response	1	5535430	15648	1
+Fage_P096a	133	Pulse	99	5536790	17008	1
+Fage_P096a	134	Picture	Fixation Cross after Retrieval	5544606	0	1	112291	2	0	next	other	0
+Fage_P096a	134	Pulse	99	5549190	4584	1
+Fage_P096a	134	Pulse	99	5561590	16984	1
+Fage_P096a	134	Pulse	99	5573989	29383	1
+Fage_P096a	134	Pulse	99	5586389	41783	1
+Fage_P096a	134	Pulse	99	5598789	54183	1
+Fage_P096a	134	Pulse	99	5611189	66583	1
+Fage_P096a	134	Pulse	99	5623588	78982	1
+Fage_P096a	134	Pulse	99	5635988	91382	1
+Fage_P096a	134	Pulse	99	5648388	103782	1
+Fage_P096a	135	Picture	Encoding Sternberg Symbols	5656897	0	1	24824	3	0	next	other	0
+Fage_P096a	135	Pulse	99	5660788	3891	1
+Fage_P096a	135	Pulse	99	5673187	16290	1
+Fage_P096a	136	Picture	Fixation Cross Sternberg Symbols after Encoding	5681721	0	2	12496	3	0	next	other	0
+Fage_P096a	136	Pulse	99	5685587	3866	1
+Fage_P096a	137	Picture	Stroop Sternberg	5694217	0	1	24824	2	0	next	hit	635
+Fage_P096a	137	Pulse	99	5697987	3770	1
+Fage_P096a	137	Response	1	5702787	8570	1
+Fage_P096a	137	Pulse	99	5710387	16170	1
+Fage_P096a	138	Picture	Fixation Cross Sternberg Symbols after Stroop	5719041	0	1	37319	3	0	next	other	0
+Fage_P096a	138	Pulse	99	5722786	3745	1
+Fage_P096a	138	Pulse	99	5735186	16145	1
+Fage_P096a	138	Pulse	99	5747586	28545	1
+Fage_P096a	139	Picture	Retrieval Sternberg Symbols	5756360	0	2	24825	3	0	next	incorrect	643
+Fage_P096a	139	Pulse	99	5759986	3626	1
+Fage_P096a	139	Response	2	5766056	9696	1
+Fage_P096a	139	Pulse	99	5772386	16026	1
+Fage_P096a	140	Picture	Fixation Cross after Retrieval	5781185	0	1	137115	2	0	next	other	0
+Fage_P096a	140	Pulse	99	5784785	3600	1
+Fage_P096a	140	Pulse	99	5797185	16000	1
+Fage_P096a	140	Pulse	99	5809585	28400	1
+Fage_P096a	140	Pulse	99	5821985	40800	1
+Fage_P096a	140	Pulse	99	5834384	53199	1
+Fage_P096a	140	Pulse	99	5846784	65599	1
+Fage_P096a	140	Pulse	99	5859184	77999	1
+Fage_P096a	140	Pulse	99	5871584	90399	1
+Fage_P096a	140	Pulse	99	5883983	102798	1
+Fage_P096a	140	Pulse	99	5896383	115198	1
+Fage_P096a	140	Pulse	99	5908783	127598	1
+Fage_P096a	141	Picture	Encoding Sternberg Symbols	5918300	0	1	24824	3	0	next	other	0
+Fage_P096a	141	Pulse	99	5921183	2883	1
+Fage_P096a	141	Pulse	99	5933583	15283	1
+Fage_P096a	142	Picture	Fixation Cross Sternberg Symbols after Encoding	5943124	0	2	12496	3	0	next	other	0
+Fage_P096a	142	Pulse	99	5945982	2858	1
+Fage_P096a	143	Picture	Stroop Sternberg	5955620	0	1	24824	2	0	next	hit	664
+Fage_P096a	143	Pulse	99	5958382	2762	1
+Fage_P096a	143	Response	1	5962142	6522	1
+Fage_P096a	143	Pulse	99	5970782	15162	1
+Fage_P096a	144	Picture	Fixation Cross Sternberg Symbols after Stroop	5980444	0	1	37319	3	0	next	other	0
+Fage_P096a	144	Pulse	99	5983182	2738	1
+Fage_P096a	144	Pulse	99	5995581	15137	1
+Fage_P096a	144	Pulse	99	6007981	27537	1
+Fage_P096a	145	Picture	Retrieval Sternberg Symbols	6017763	0	2	24825	3	0	next	incorrect	672
+Fage_P096a	145	Pulse	99	6020381	2618	1
+Fage_P096a	145	Response	2	6023351	5588	1
+Fage_P096a	145	Pulse	99	6032781	15018	1
+Fage_P096a	146	Picture	Fixation Cross after Retrieval	6042588	0	1	112291	2	0	next	other	0
+Fage_P096a	146	Pulse	99	6045181	2593	1
+Fage_P096a	146	Pulse	99	6057580	14992	1
+Fage_P096a	146	Pulse	99	6069980	27392	1
+Fage_P096a	146	Pulse	99	6082380	39792	1
+Fage_P096a	146	Pulse	99	6094780	52192	1
+Fage_P096a	146	Pulse	99	6107179	64591	1
+Fage_P096a	146	Pulse	99	6119579	76991	1
+Fage_P096a	146	Pulse	99	6131979	89391	1
+Fage_P096a	146	Pulse	99	6144379	101791	1
+Fage_P096a	147	Picture	Instruction Sternberg Letters	6154879	0	1	37320	2	0	next	other	0
+Fage_P096a	147	Pulse	99	6156778	1899	1
+Fage_P096a	147	Pulse	99	6169178	14299	1
+Fage_P096a	147	Pulse	99	6181578	26699	1
+Fage_P096a	148	Picture	Encoding Sternberg Letters	6192199	0	1	24824	2	0	next	other	0
+Fage_P096a	148	Pulse	99	6193978	1779	1
+Fage_P096a	148	Pulse	99	6206377	14178	1
+Fage_P096a	149	Picture	Fixation Cross Sternberg Letters after Encoding	6217023	0	1	12495	2	0	next	other	0
+Fage_P096a	149	Pulse	99	6218777	1754	1
+Fage_P096a	150	Picture	Stroop Sternberg	6229518	0	1	24824	2	0	next	incorrect	695
+Fage_P096a	150	Pulse	99	6231177	1659	1
+Fage_P096a	150	Response	2	6240637	11119	1
+Fage_P096a	150	Pulse	99	6243577	14059	1
+Fage_P096a	151	Picture	Fixation Cross Sternberg Letters after Stroop	6254342	0	1	37320	2	0	next	other	0
+Fage_P096a	151	Pulse	99	6255977	1635	1
+Fage_P096a	151	Pulse	99	6268376	14034	1
+Fage_P096a	151	Pulse	99	6280776	26434	1
+Fage_P096a	152	Picture	Retrieval Sternberg Letters	6291662	0	1	24824	2	0	next	incorrect	703
+Fage_P096a	152	Pulse	99	6293176	1514	1
+Fage_P096a	152	Response	2	6302716	11054	1
+Fage_P096a	152	Pulse	99	6305575	13913	1
+Fage_P096a	153	Picture	Fixation Cross after Retrieval	6316486	0	1	112292	2	0	next	other	0
+Fage_P096a	153	Pulse	99	6317975	1489	1
+Fage_P096a	153	Pulse	99	6330375	13889	1
+Fage_P096a	153	Pulse	99	6342775	26289	1
+Fage_P096a	153	Pulse	99	6355175	38689	1
+Fage_P096a	153	Pulse	99	6367584	51098	1
+Fage_P096a	153	Pulse	99	6379984	63498	1
+Fage_P096a	153	Pulse	99	6392384	75898	1
+Fage_P096a	153	Pulse	99	6404784	88298	1
+Fage_P096a	153	Pulse	99	6417183	100697	1
+Fage_P096a	154	Picture	Encoding Sternberg Letters	6428778	0	1	24824	2	0	next	other	0
+Fage_P096a	154	Pulse	99	6429583	805	1
+Fage_P096a	154	Pulse	99	6441983	13205	1
+Fage_P096a	155	Picture	Fixation Cross Sternberg Letters after Encoding	6453602	0	1	12495	2	0	next	other	0
+Fage_P096a	155	Pulse	99	6454383	781	1
+Fage_P096a	156	Picture	Stroop Sternberg	6466097	0	1	24824	2	0	next	incorrect	722
+Fage_P096a	156	Pulse	99	6466783	686	1
+Fage_P096a	156	Response	2	6474452	8355	1
+Fage_P096a	156	Pulse	99	6479182	13085	1
+Fage_P096a	157	Picture	Fixation Cross Sternberg Letters after Stroop	6490921	0	1	37320	2	0	next	other	0
+Fage_P096a	157	Pulse	99	6491582	661	1
+Fage_P096a	157	Pulse	99	6503982	13061	1
+Fage_P096a	157	Pulse	99	6516382	25461	1
+Fage_P096a	158	Picture	Retrieval Sternberg Letters	6528241	0	1	24824	2	0	next	hit	730
+Fage_P096a	158	Pulse	99	6528781	540	1
+Fage_P096a	158	Response	1	6537341	9100	1
+Fage_P096a	158	Pulse	99	6541181	12940	1
+Fage_P096a	159	Picture	Fixation Cross after Retrieval	6553065	0	1	149444	3	0	next	other	0
+Fage_P096a	159	Pulse	99	6553581	516	1
+Fage_P096a	159	Pulse	99	6565981	12916	1
+Fage_P096a	159	Pulse	99	6578380	25315	1
+Fage_P096a	159	Pulse	99	6590780	37715	1
+Fage_P096a	159	Pulse	99	6603180	50115	1
+Fage_P096a	159	Pulse	99	6615580	62515	1
+Fage_P096a	159	Pulse	99	6627980	74915	1
+Fage_P096a	159	Pulse	99	6640379	87314	1
+Fage_P096a	159	Pulse	99	6652779	99714	1
+Fage_P096a	159	Pulse	99	6665179	112114	1
+Fage_P096a	159	Pulse	99	6677579	124514	1
+Fage_P096a	159	Pulse	99	6689978	136913	1
+Fage_P096a	159	Pulse	99	6702378	149313	1
+Fage_P096a	160	Picture	Encoding Sternberg Letters	6702509	0	2	24825	3	0	next	other	0
+Fage_P096a	160	Pulse	99	6714778	12269	1
+Fage_P096a	160	Pulse	99	6727178	24669	1
+Fage_P096a	161	Picture	Fixation Cross Sternberg Letters after Encoding	6727334	0	1	12495	2	0	next	other	0
+Fage_P096a	161	Pulse	99	6739577	12243	1
+Fage_P096a	162	Picture	Stroop Sternberg	6739829	0	1	24824	2	0	next	hit	752
+Fage_P096a	162	Response	1	6749787	9958	1
+Fage_P096a	162	Pulse	99	6751977	12148	1
+Fage_P096a	162	Pulse	99	6764377	24548	1
+Fage_P096a	163	Picture	Fixation Cross Sternberg Letters after Stroop	6764653	0	1	37320	2	0	next	other	0
+Fage_P096a	163	Pulse	99	6776777	12124	1
+Fage_P096a	163	Pulse	99	6789177	24524	1
+Fage_P096a	163	Pulse	99	6801576	36923	1
+Fage_P096a	164	Picture	Retrieval Sternberg Letters	6801973	0	1	24824	2	0	next	hit	760
+Fage_P096a	164	Response	1	6812086	10113	1
+Fage_P096a	164	Pulse	99	6813976	12003	1
+Fage_P096a	164	Pulse	99	6826376	24403	1
+Fage_P096a	165	Picture	Fixation Cross after Retrieval	6826797	0	1	124620	2	0	next	other	0
+Fage_P096a	165	Pulse	99	6838776	11979	1
+Fage_P096a	165	Pulse	99	6851175	24378	1
+Fage_P096a	165	Pulse	99	6863575	36778	1
+Fage_P096a	165	Pulse	99	6875975	49178	1
+Fage_P096a	165	Pulse	99	6888375	61578	1
+Fage_P096a	165	Pulse	99	6900774	73977	1
+Fage_P096a	165	Pulse	99	6913174	86377	1
+Fage_P096a	165	Pulse	99	6925574	98777	1
+Fage_P096a	165	Pulse	99	6937974	111177	1
+Fage_P096a	165	Pulse	99	6950373	123576	1
+Fage_P096a	166	Picture	Encoding Sternberg Letters	6951417	0	1	24824	2	0	next	other	0
+Fage_P096a	166	Pulse	99	6962773	11356	1
+Fage_P096a	166	Pulse	99	6975173	23756	1
+Fage_P096a	167	Picture	Fixation Cross Sternberg Letters after Encoding	6976241	0	1	12496	2	0	next	other	0
+Fage_P096a	167	Pulse	99	6987573	11332	1
+Fage_P096a	168	Picture	Stroop Sternberg	6988737	0	1	24824	2	0	next	hit	780
+Fage_P096a	168	Response	1	6995533	6796	1
+Fage_P096a	168	Pulse	99	6999972	11235	1
+Fage_P096a	168	Pulse	99	7012372	23635	1
+Fage_P096a	169	Picture	Fixation Cross Sternberg Letters after Stroop	7013561	0	1	37319	2	0	next	other	0
+Fage_P096a	169	Pulse	99	7024772	11211	1
+Fage_P096a	169	Pulse	99	7037172	23611	1
+Fage_P096a	169	Pulse	99	7049572	36011	1
+Fage_P096a	170	Picture	Retrieval Sternberg Letters	7050880	0	1	24824	2	0	next	incorrect	788
+Fage_P096a	170	Response	2	7059281	8401	1
+Fage_P096a	170	Pulse	99	7061971	11091	1
+Fage_P096a	170	Pulse	99	7074371	23491	1
+Fage_P096a	171	Picture	Fixation Cross after Retrieval	7075704	0	1	137116	2	0	next	other	0
+Fage_P096a	171	Pulse	99	7086771	11067	1
+Fage_P096a	171	Pulse	99	7099171	23467	1
+Fage_P096a	171	Pulse	99	7111570	35866	1
+Fage_P096a	171	Pulse	99	7123970	48266	1
+Fage_P096a	171	Pulse	99	7136370	60666	1
+Fage_P096a	171	Pulse	99	7148770	73066	1
+Fage_P096a	171	Pulse	99	7161170	85466	1
+Fage_P096a	171	Pulse	99	7173569	97865	1
+Fage_P096a	171	Pulse	99	7185969	110265	1
+Fage_P096a	171	Pulse	99	7198369	122665	1
+Fage_P096a	171	Pulse	99	7210769	135065	1
+Fage_P096a	172	Picture	Encoding Sternberg Letters	7212820	0	1	24824	2	0	next	other	0
+Fage_P096a	172	Pulse	99	7223168	10348	1
+Fage_P096a	172	Pulse	99	7235568	22748	1
+Fage_P096a	173	Picture	Fixation Cross Sternberg Letters after Encoding	7237644	0	1	12496	2	0	next	other	0
+Fage_P096a	173	Pulse	99	7247968	10324	1
+Fage_P096a	174	Picture	Stroop Sternberg	7250140	0	1	24824	2	0	next	incorrect	809
+Fage_P096a	174	Response	2	7257268	7128	1
+Fage_P096a	174	Pulse	99	7260368	10228	1
+Fage_P096a	174	Pulse	99	7272767	22627	1
+Fage_P096a	175	Picture	Fixation Cross Sternberg Letters after Stroop	7274964	0	1	37319	2	0	next	other	0
+Fage_P096a	175	Pulse	99	7285167	10203	1
+Fage_P096a	175	Pulse	99	7297567	22603	1
+Fage_P096a	175	Pulse	99	7309967	35003	1
+Fage_P096a	176	Picture	Retrieval Sternberg Letters	7312283	0	1	24824	2	0	next	hit	817
+Fage_P096a	176	Response	1	7318657	6374	1
+Fage_P096a	176	Pulse	99	7322366	10083	1
+Fage_P096a	176	Pulse	99	7334766	22483	1
+Fage_P096a	177	Picture	Fixation Cross after Retrieval	7337107	0	1	124621	2	0	next	other	0
+Fage_P096a	177	Pulse	99	7347166	10059	1
+Fage_P096a	177	Pulse	99	7359566	22459	1
+Fage_P096a	177	Pulse	99	7371966	34859	1
+Fage_P096a	177	Pulse	99	7384365	47258	1
+Fage_P096a	177	Pulse	99	7396765	59658	1
+Fage_P096a	177	Pulse	99	7409165	72058	1
+Fage_P096a	177	Pulse	99	7421565	84458	1
+Fage_P096a	177	Pulse	99	7433964	96857	1
+Fage_P096a	177	Pulse	99	7446364	109257	1
+Fage_P096a	177	Pulse	99	7458764	121657	1
+Fage_P096a	178	Picture	Encoding Sternberg Letters	7461728	0	1	24824	2	0	next	other	0
+Fage_P096a	178	Pulse	99	7471164	9436	1
+Fage_P096a	178	Pulse	99	7483563	21835	1
+Fage_P096a	179	Picture	Fixation Cross Sternberg Letters after Encoding	7486552	0	1	12495	2	0	next	other	0
+Fage_P096a	179	Pulse	99	7495963	9411	1
+Fage_P096a	180	Picture	Stroop Sternberg	7499047	0	1	24824	3	0	next	incorrect	837
+Fage_P096a	180	Response	2	7507293	8246	1
+Fage_P096a	180	Pulse	99	7508363	9316	1
+Fage_P096a	180	Pulse	99	7520763	21716	1
+Fage_P096a	181	Picture	Fixation Cross Sternberg Letters after Stroop	7523871	0	2	37320	3	0	next	other	0
+Fage_P096a	181	Pulse	99	7533163	9292	1
+Fage_P096a	181	Pulse	99	7545562	21691	1
+Fage_P096a	181	Pulse	99	7557962	34091	1
+Fage_P096a	182	Picture	Retrieval Sternberg Letters	7561191	0	1	24824	2	0	next	hit	846
+Fage_P096a	182	Pulse	99	7570362	9171	1
+Fage_P096a	182	Response	1	7570872	9681	1
+Fage_P096a	182	Pulse	99	7582762	21571	1
+Fage_P096a	183	Picture	Fixation Cross after Retrieval	7586015	0	1	112292	2	0	next	other	0
+Fage_P096a	183	Pulse	99	7595161	9146	1
+Fage_P096a	183	Pulse	99	7607561	21546	1
+Fage_P096a	183	Pulse	99	7619961	33946	1
+Fage_P096a	183	Pulse	99	7632361	46346	1
+Fage_P096a	183	Pulse	99	7644760	58745	1
+Fage_P096a	183	Pulse	99	7657160	71145	1
+Fage_P096a	183	Pulse	99	7669560	83545	1
+Fage_P096a	183	Pulse	99	7681960	95945	1
+Fage_P096a	183	Pulse	99	7694360	108345	1
+Fage_P096a	184	Picture	Encoding Sternberg Letters	7698307	0	1	24824	2	0	next	other	0
+Fage_P096a	184	Pulse	99	7706759	8452	1
+Fage_P096a	184	Pulse	99	7719159	20852	1
+Fage_P096a	185	Picture	Fixation Cross Sternberg Letters after Encoding	7723131	0	1	12495	2	0	next	other	0
+Fage_P096a	185	Pulse	99	7731559	8428	1
+Fage_P096a	186	Picture	Stroop Sternberg	7735626	0	1	24824	2	0	next	hit	864
+Fage_P096a	186	Response	1	7743119	7493	1
+Fage_P096a	186	Pulse	99	7743958	8332	1
+Fage_P096a	186	Pulse	99	7756358	20732	1
+Fage_P096a	187	Picture	Fixation Cross Sternberg Letters after Stroop	7760450	0	1	37320	2	0	next	other	0
+Fage_P096a	187	Pulse	99	7768758	8308	1
+Fage_P096a	187	Pulse	99	7781158	20708	1
+Fage_P096a	187	Pulse	99	7793558	33108	1
+Fage_P096a	188	Picture	Retrieval Sternberg Letters	7797770	0	1	24824	2	0	next	incorrect	872
+Fage_P096a	188	Response	2	7804468	6698	1
+Fage_P096a	188	Pulse	99	7805957	8187	1
+Fage_P096a	188	Pulse	99	7818357	20587	1
+Fage_P096a	189	Picture	Fixation Cross after Retrieval	7822594	0	1	112292	2	0	next	other	0
+Fage_P096a	189	Pulse	99	7830757	8163	1
+Fage_P096a	189	Pulse	99	7843157	20563	1
+Fage_P096a	189	Pulse	99	7855557	32963	1
+Fage_P096a	189	Pulse	99	7867956	45362	1
+Fage_P096a	189	Pulse	99	7880356	57762	1
+Fage_P096a	189	Pulse	99	7892756	70162	1
+Fage_P096a	189	Pulse	99	7905156	82562	1
+Fage_P096a	189	Pulse	99	7917555	94961	1
+Fage_P096a	189	Pulse	99	7929955	107361	1
+Fage_P096a	190	Picture	Encoding Sternberg Letters	7934886	0	1	24824	2	0	next	other	0
+Fage_P096a	190	Pulse	99	7942355	7469	1
+Fage_P096a	190	Pulse	99	7954755	19869	1
+Fage_P096a	191	Picture	Fixation Cross Sternberg Letters after Encoding	7959710	0	1	12495	2	0	next	other	0
+Fage_P096a	191	Pulse	99	7967154	7444	1
+Fage_P096a	192	Picture	Stroop Sternberg	7972205	0	1	24824	2	0	next	incorrect	891
+Fage_P096a	192	Response	2	7979405	7200	1
+Fage_P096a	192	Pulse	99	7979554	7349	1
+Fage_P096a	192	Pulse	99	7991954	19749	1
+Fage_P096a	193	Picture	Fixation Cross Sternberg Letters after Stroop	7997029	0	1	37320	2	0	next	other	0
+Fage_P096a	193	Pulse	99	8004354	7325	1
+Fage_P096a	193	Pulse	99	8016753	19724	1
+Fage_P096a	193	Pulse	99	8029153	32124	1
+Fage_P096a	194	Picture	Retrieval Sternberg Letters	8034349	0	1	24824	2	0	next	hit	900
+Fage_P096a	194	Pulse	99	8041553	7204	1
+Fage_P096a	194	Response	1	8042243	7894	1
+Fage_P096a	194	Pulse	99	8053953	19604	1
+Fage_P096a	195	Picture	Fixation Cross after Retrieval	8059173	0	1	137116	2	0	next	other	0
+Fage_P096a	195	Pulse	99	8066353	7180	1
+Fage_P096a	195	Pulse	99	8078752	19579	1
+Fage_P096a	195	Pulse	99	8091152	31979	1
+Fage_P096a	195	Pulse	99	8103552	44379	1
+Fage_P096a	195	Pulse	99	8115952	56779	1
+Fage_P096a	195	Pulse	99	8128351	69178	1
+Fage_P096a	195	Pulse	99	8140751	81578	1
+Fage_P096a	195	Pulse	99	8153151	93978	1
+Fage_P096a	195	Pulse	99	8165561	106388	1
+Fage_P096a	195	Pulse	99	8177960	118787	1
+Fage_P096a	195	Pulse	99	8190360	131187	1
+Fage_P096a	196	Picture	Encoding Sternberg Letters	8196289	0	1	24824	2	0	next	other	0
+Fage_P096a	196	Pulse	99	8202760	6471	1
+Fage_P096a	196	Pulse	99	8215160	18871	1
+Fage_P096a	197	Picture	Fixation Cross Sternberg Letters after Encoding	8221113	0	1	12495	2	0	next	other	0
+Fage_P096a	197	Pulse	99	8227559	6446	1
+Fage_P096a	198	Picture	Stroop Sternberg	8233608	0	1	24824	2	0	next	hit	921
+Fage_P096a	198	Pulse	99	8239959	6351	1
+Fage_P096a	198	Response	1	8241499	7891	1
+Fage_P096a	198	Pulse	99	8252359	18751	1
+Fage_P096a	199	Picture	Fixation Cross Sternberg Letters after Stroop	8258432	0	1	37320	2	0	next	other	0
+Fage_P096a	199	Pulse	99	8264759	6327	1
+Fage_P096a	199	Pulse	99	8277159	18727	1
+Fage_P096a	199	Pulse	99	8289558	31126	1
+Fage_P096a	200	Picture	Retrieval Sternberg Letters	8295752	0	1	24824	2	0	next	incorrect	929
+Fage_P096a	200	Pulse	99	8301958	6206	1
+Fage_P096a	200	Response	2	8304028	8276	1
+Fage_P096a	200	Pulse	99	8314358	18606	1
+Fage_P096a	201	Picture	Fixation Cross after Retrieval	8320576	0	1	124620	2	0	next	other	0
+Fage_P096a	201	Pulse	99	8326758	6182	1
+Fage_P096a	201	Pulse	99	8339157	18581	1
+Fage_P096a	201	Pulse	99	8351557	30981	1
+Fage_P096a	201	Pulse	99	8363957	43381	1
+Fage_P096a	201	Pulse	99	8376357	55781	1
+Fage_P096a	201	Pulse	99	8388756	68180	1
+Fage_P096a	201	Pulse	99	8401156	80580	1
+Fage_P096a	201	Pulse	99	8413556	92980	1
+Fage_P096a	201	Pulse	99	8425956	105380	1
+Fage_P096a	201	Pulse	99	8438356	117780	1
+Fage_P096a	202	Picture	Encoding Sternberg Letters	8445196	0	1	24825	2	0	next	other	0
+Fage_P096a	202	Pulse	99	8450755	5559	1
+Fage_P096a	202	Pulse	99	8463155	17959	1
+Fage_P096a	203	Picture	Fixation Cross Sternberg Letters after Encoding	8470021	0	1	12495	2	0	next	other	0
+Fage_P096a	203	Pulse	99	8475555	5534	1
+Fage_P096a	204	Picture	Stroop Sternberg	8482516	0	1	24824	2	0	next	incorrect	949
+Fage_P096a	204	Pulse	99	8487955	5439	1
+Fage_P096a	204	Response	2	8489944	7428	1
+Fage_P096a	204	Pulse	99	8500354	17838	1
+Fage_P096a	205	Picture	Fixation Cross Sternberg Letters after Stroop	8507340	0	1	37320	2	0	next	other	0
+Fage_P096a	205	Pulse	99	8512754	5414	1
+Fage_P096a	205	Pulse	99	8525154	17814	1
+Fage_P096a	205	Pulse	99	8537554	30214	1
+Fage_P096a	206	Picture	Retrieval Sternberg Letters	8544660	0	1	24824	2	0	next	incorrect	957
+Fage_P096a	206	Pulse	99	8549954	5294	1
+Fage_P096a	206	Response	2	8553393	8733	1
+Fage_P096a	206	Pulse	99	8562353	17693	1
+Fage_P096a	207	Picture	Fixation Cross after Retrieval	8569484	0	1	149444	2	0	next	other	0
+Fage_P096a	207	Pulse	99	8574753	5269	1
+Fage_P096a	207	Pulse	99	8587153	17669	1
+Fage_P096a	207	Pulse	99	8599553	30069	1
+Fage_P096a	207	Pulse	99	8611952	42468	1
+Fage_P096a	207	Pulse	99	8624352	54868	1
+Fage_P096a	207	Pulse	99	8636752	67268	1
+Fage_P096a	207	Pulse	99	8649152	79668	1
+Fage_P096a	207	Pulse	99	8661551	92067	1
+Fage_P096a	207	Pulse	99	8673951	104467	1
+Fage_P096a	207	Pulse	99	8686351	116867	1
+Fage_P096a	207	Pulse	99	8698751	129267	1
+Fage_P096a	207	Pulse	99	8711150	141666	1
+Fage_P096a	208	Picture	Encoding Sternberg Letters	8718928	0	1	24824	2	0	next	other	0
+Fage_P096a	208	Pulse	99	8723550	4622	1
+Fage_P096a	208	Pulse	99	8735950	17022	1
+Fage_P096a	209	Picture	Fixation Cross Sternberg Letters after Encoding	8743752	0	1	12496	2	0	next	other	0
+Fage_P096a	209	Pulse	99	8748350	4598	1
+Fage_P096a	210	Picture	Stroop Sternberg	8756248	0	1	24824	2	0	next	incorrect	979
+Fage_P096a	210	Pulse	99	8760750	4502	1
+Fage_P096a	210	Response	2	8765609	9361	1
+Fage_P096a	210	Pulse	99	8773149	16901	1
+Fage_P096a	211	Picture	Fixation Cross Sternberg Letters after Stroop	8781072	0	1	37319	2	0	next	other	0
+Fage_P096a	211	Pulse	99	8785549	4477	1
+Fage_P096a	211	Pulse	99	8797949	16877	1
+Fage_P096a	211	Pulse	99	8810349	29277	1
+Fage_P096a	212	Picture	Retrieval Sternberg Letters	8818391	0	1	24824	3	0	next	hit	987
+Fage_P096a	212	Pulse	99	8822748	4357	1
+Fage_P096a	212	Response	1	8829308	10917	1
+Fage_P096a	212	Pulse	99	8835148	16757	1
+Fage_P096a	213	Picture	Fixation Cross after Retrieval	8843215	0	2	124621	3	0	next	other	0
+Fage_P096a	213	Pulse	99	8847548	4333	1
+Fage_P096a	213	Pulse	99	8859948	16733	1
+Fage_P096a	213	Pulse	99	8872347	29132	1
+Fage_P096a	213	Pulse	99	8884747	41532	1
+Fage_P096a	213	Pulse	99	8897147	53932	1
+Fage_P096a	213	Pulse	99	8909547	66332	1
+Fage_P096a	213	Pulse	99	8921946	78731	1
+Fage_P096a	213	Pulse	99	8934346	91131	1
+Fage_P096a	213	Pulse	99	8946746	103531	1
+Fage_P096a	213	Pulse	99	8959146	115931	1
+Fage_P096a	214	Picture	Encoding Sternberg Letters	8967836	0	1	24824	2	0	next	other	0
+Fage_P096a	214	Pulse	99	8971546	3710	1
+Fage_P096a	214	Pulse	99	8983945	16109	1
+Fage_P096a	215	Picture	Fixation Cross Sternberg Letters after Encoding	8992660	0	1	12495	2	0	next	other	0
+Fage_P096a	215	Pulse	99	8996345	3685	1
+Fage_P096a	216	Picture	Stroop Sternberg	9005155	0	1	24825	2	0	next	incorrect	1007
+Fage_P096a	216	Pulse	99	9008745	3590	1
+Fage_P096a	216	Response	2	9012605	7450	1
+Fage_P096a	216	Pulse	99	9021145	15990	1
+Fage_P096a	217	Picture	Fixation Cross Sternberg Letters after Stroop	9029980	0	1	37319	2	0	next	other	0
+Fage_P096a	217	Pulse	99	9033544	3564	1
+Fage_P096a	217	Pulse	99	9045944	15964	1
+Fage_P096a	217	Pulse	99	9058344	28364	1
+Fage_P096a	218	Picture	Retrieval Sternberg Letters	9067299	0	1	24824	2	0	next	incorrect	1015
+Fage_P096a	218	Pulse	99	9070744	3445	1
+Fage_P096a	218	Response	2	9073763	6464	1
+Fage_P096a	218	Pulse	99	9083143	15844	1
+Fage_P096a	219	Picture	Fixation Cross after Retrieval	9092123	0	1	112292	2	0	next	other	0
+Fage_P096a	219	Pulse	99	9095543	3420	1
+Fage_P096a	219	Pulse	99	9107943	15820	1
+Fage_P096a	219	Pulse	99	9120343	28220	1
+Fage_P096a	219	Pulse	99	9132743	40620	1
+Fage_P096a	219	Pulse	99	9145142	53019	1
+Fage_P096a	219	Pulse	99	9157542	65419	1
+Fage_P096a	219	Pulse	99	9169942	77819	1
+Fage_P096a	219	Pulse	99	9182342	90219	1
+Fage_P096a	219	Pulse	99	9194741	102618	1
+Fage_P096a	220	Picture	Encoding Sternberg Letters	9204415	0	1	24824	2	0	next	other	0
+Fage_P096a	220	Pulse	99	9207141	2726	1
+Fage_P096a	220	Pulse	99	9219541	15126	1
+Fage_P096a	221	Picture	Fixation Cross Sternberg Letters after Encoding	9229239	0	1	12495	3	0	next	other	0
+Fage_P096a	221	Pulse	99	9231941	2702	1
+Fage_P096a	222	Picture	Stroop Sternberg	9241734	0	2	24824	4	0	next	hit	1034
+Fage_P096a	222	Pulse	99	9244340	2606	1
+Fage_P096a	222	Response	1	9248050	6316	1
+Fage_P096a	222	Pulse	99	9256740	15006	1
+Fage_P096a	223	Picture	Fixation Cross Sternberg Letters after Stroop	9266558	0	2	37320	3	0	next	other	0
+Fage_P096a	223	Pulse	99	9269140	2582	1
+Fage_P096a	223	Pulse	99	9281540	14982	1
+Fage_P096a	223	Pulse	99	9293939	27381	1
+Fage_P096a	224	Picture	Retrieval Sternberg Letters	9303878	0	1	24824	2	0	next	incorrect	1042
+Fage_P096a	224	Pulse	99	9306339	2461	1
+Fage_P096a	224	Response	2	9313069	9191	1
+Fage_P096a	224	Pulse	99	9318739	14861	1
+Fage_P096a	225	Picture	Fixation Cross after Retrieval	9328702	0	1	124620	3	0	next	other	0
+Fage_P096a	225	Pulse	99	9331139	2437	1
+Fage_P096a	225	Pulse	99	9343539	14837	1
+Fage_P096a	225	Pulse	99	9355938	27236	1
+Fage_P096a	225	Pulse	99	9368338	39636	1
+Fage_P096a	225	Pulse	99	9380738	52036	1
+Fage_P096a	225	Pulse	99	9393138	64436	1
+Fage_P096a	225	Pulse	99	9405537	76835	1
+Fage_P096a	225	Pulse	99	9417937	89235	1
+Fage_P096a	225	Pulse	99	9430337	101635	1
+Fage_P096a	225	Pulse	99	9442737	114035	1
+Fage_P096a	226	Picture	Encoding Sternberg Letters	9453322	0	2	24825	3	0	next	other	0
+Fage_P096a	226	Pulse	99	9455137	1815	1
+Fage_P096a	226	Pulse	99	9467536	14214	1
+Fage_P096a	227	Picture	Fixation Cross Sternberg Letters after Encoding	9478147	0	1	12495	2	0	next	other	0
+Fage_P096a	227	Pulse	99	9479936	1789	1
+Fage_P096a	228	Picture	Stroop Sternberg	9490642	0	1	24824	2	0	next	incorrect	1062
+Fage_P096a	228	Pulse	99	9492336	1694	1
+Fage_P096a	228	Response	2	9497526	6884	1
+Fage_P096a	228	Pulse	99	9504735	14093	1
+Fage_P096a	229	Picture	Fixation Cross Sternberg Letters after Stroop	9515466	0	1	37320	2	0	next	other	0
+Fage_P096a	229	Pulse	99	9517135	1669	1
+Fage_P096a	229	Pulse	99	9529535	14069	1
+Fage_P096a	229	Pulse	99	9541935	26469	1
+Fage_P096a	230	Picture	Retrieval Sternberg Letters	9552786	0	1	24824	2	0	next	incorrect	1070
+Fage_P096a	230	Pulse	99	9554335	1549	1
+Fage_P096a	230	Response	2	9561794	9008	1
+Fage_P096a	230	Pulse	99	9566734	13948	1
+Fage_P096a	231	Picture	Fixation Cross after Retrieval	9577610	0	1	124620	2	0	next	other	0
+Fage_P096a	231	Pulse	99	9579134	1524	1
+Fage_P096a	231	Pulse	99	9591534	13924	1
+Fage_P096a	231	Pulse	99	9603934	26324	1
+Fage_P096a	231	Pulse	99	9616334	38724	1
+Fage_P096a	231	Pulse	99	9628733	51123	1
+Fage_P096a	231	Pulse	99	9641133	63523	1
+Fage_P096a	231	Pulse	99	9653533	75923	1
+Fage_P096a	231	Pulse	99	9665932	88322	1
+Fage_P096a	231	Pulse	99	9678332	100722	1
+Fage_P096a	231	Pulse	99	9690732	113122	1
+Fage_P096a	232	Picture	Encoding Sternberg Letters	9702230	0	1	24824	2	0	next	other	0
+Fage_P096a	232	Pulse	99	9703132	902	1
+Fage_P096a	232	Pulse	99	9715532	13302	1
+Fage_P096a	233	Picture	Fixation Cross Sternberg Letters after Encoding	9727054	0	1	12496	2	0	next	other	0
+Fage_P096a	233	Pulse	99	9727931	877	1
+Fage_P096a	234	Picture	Stroop Sternberg	9739550	0	1	24824	2	0	next	incorrect	1090
+Fage_P096a	234	Pulse	99	9740331	781	1
+Fage_P096a	234	Response	2	9748631	9081	1
+Fage_P096a	234	Pulse	99	9752731	13181	1
+Fage_P096a	235	Picture	Fixation Cross Sternberg Letters after Stroop	9764374	0	1	37319	2	0	next	other	0
+Fage_P096a	235	Pulse	99	9765131	757	1
+Fage_P096a	235	Pulse	99	9777530	13156	1
+Fage_P096a	235	Pulse	99	9789930	25556	1
+Fage_P096a	236	Picture	Retrieval Sternberg Letters	9801693	0	1	24824	2	0	next	incorrect	1098
+Fage_P096a	236	Pulse	99	9802330	637	1
+Fage_P096a	236	Response	2	9810610	8917	1
+Fage_P096a	236	Pulse	99	9814730	13037	1
+Fage_P096a	237	Picture	Fixation Cross after Retrieval	9826517	0	1	112292	2	0	next	other	0
+Fage_P096a	237	Pulse	99	9827129	612	1
+Fage_P096a	237	Pulse	99	9839529	13012	1
+Fage_P096a	237	Pulse	99	9851929	25412	1
+Fage_P096a	237	Pulse	99	9864329	37812	1
+Fage_P096a	237	Pulse	99	9876729	50212	1
+Fage_P096a	237	Pulse	99	9889128	62611	1
+Fage_P096a	237	Pulse	99	9901528	75011	1
+Fage_P096a	237	Pulse	99	9913928	87411	1
+Fage_P096a	237	Pulse	99	9926328	99811	1
+Fage_P096a	237	Pulse	99	9938727	112210	1
+Fage_P096a	238	Picture	Encoding Sternberg Letters	9938809	0	1	24824	2	0	next	other	0
+Fage_P096a	238	Pulse	99	9951127	12318	1
+Fage_P096a	238	Pulse	99	9963527	24718	1
+Fage_P096a	239	Picture	Fixation Cross Sternberg Letters after Encoding	9963633	0	1	12496	2	0	next	other	0
+Fage_P096a	239	Pulse	99	9975937	12304	1
+Fage_P096a	240	Picture	Stroop Sternberg	9976129	0	1	24824	2	0	next	incorrect	1117
+Fage_P096a	240	Response	2	9983586	7457	1
+Fage_P096a	240	Pulse	99	9988336	12207	1
+Fage_P096a	240	Pulse	99	10000736	24607	1
+Fage_P096a	241	Picture	Fixation Cross Sternberg Letters after Stroop	10000953	0	1	37319	2	0	next	other	0
+Fage_P096a	241	Pulse	99	10013136	12183	1
+Fage_P096a	241	Pulse	99	10025536	24583	1
+Fage_P096a	241	Pulse	99	10037936	36983	1
+Fage_P096a	242	Picture	Retrieval Sternberg Letters	10038272	0	1	24824	2	0	next	incorrect	1125
+Fage_P096a	242	Response	2	10048615	10343	1
+Fage_P096a	242	Pulse	99	10050335	12063	1
+Fage_P096a	242	Pulse	99	10062735	24463	1
+Fage_P096a	243	Picture	Fixation Cross after Retrieval	10063096	0	1	137116	2	0	next	other	0
+Fage_P096a	243	Pulse	99	10075135	12039	1
+Fage_P096a	243	Pulse	99	10087535	24439	1
+Fage_P096a	243	Pulse	99	10099934	36838	1
+Fage_P096a	243	Pulse	99	10112334	49238	1
+Fage_P096a	243	Pulse	99	10124734	61638	1
+Fage_P096a	243	Pulse	99	10137134	74038	1
+Fage_P096a	243	Pulse	99	10149533	86437	1
+Fage_P096a	243	Pulse	99	10161933	98837	1
+Fage_P096a	243	Pulse	99	10174333	111237	1
+Fage_P096a	243	Pulse	99	10186733	123637	1
+Fage_P096a	243	Pulse	99	10199132	136036	1
+Fage_P096a	244	Picture	Encoding Sternberg Letters	10200212	0	1	24824	2	0	next	other	0
+Fage_P096a	244	Pulse	99	10211532	11320	1
+Fage_P096a	244	Pulse	99	10223932	23720	1
+Fage_P096a	245	Picture	Fixation Cross Sternberg Letters after Encoding	10225036	0	1	12496	2	0	next	other	0
+Fage_P096a	245	Pulse	99	10236332	11296	1
+Fage_P096a	246	Picture	Stroop Sternberg	10237532	0	1	24824	2	0	next	incorrect	1146
+Fage_P096a	246	Response	2	10244032	6500	1
+Fage_P096a	246	Pulse	99	10248731	11199	1
+Fage_P096a	246	Pulse	99	10261131	23599	1
+Fage_P096a	247	Picture	Fixation Cross Sternberg Letters after Stroop	10262356	0	1	37319	2	0	next	other	0
+Fage_P096a	247	Pulse	99	10273531	11175	1
+Fage_P096a	247	Pulse	99	10285931	23575	1
+Fage_P096a	247	Pulse	99	10298331	35975	1
+Fage_P096a	248	Picture	Retrieval Sternberg Letters	10299675	0	1	24824	2	0	next	incorrect	1154
+Fage_P096a	248	Response	2	10308530	8855	1
+Fage_P096a	248	Pulse	99	10310730	11055	1
+Fage_P096a	248	Pulse	99	10323130	23455	1
+Fage_P096a	249	Picture	Fixation Cross after Retrieval	10324499	0	1	149445	2	0	next	other	0
+Fage_P096a	249	Pulse	99	10335530	11031	1
+Fage_P096a	249	Pulse	99	10347930	23431	1
+Fage_P096a	249	Pulse	99	10360329	35830	1
+Fage_P096a	249	Pulse	99	10372729	48230	1
+Fage_P096a	249	Pulse	99	10385129	60630	1
+Fage_P096a	249	Pulse	99	10397529	73030	1
+Fage_P096a	249	Pulse	99	10409929	85430	1
+Fage_P096a	249	Pulse	99	10422328	97829	1
+Fage_P096a	249	Pulse	99	10434728	110229	1
+Fage_P096a	249	Pulse	99	10447128	122629	1
+Fage_P096a	249	Pulse	99	10459528	135029	1
+Fage_P096a	249	Pulse	99	10471927	147428	1
+Fage_P096a	250	Picture	Encoding Sternberg Letters	10473944	0	1	24824	2	0	next	other	0
+Fage_P096a	250	Pulse	99	10484327	10383	1
+Fage_P096a	250	Pulse	99	10496727	22783	1
+Fage_P096a	251	Picture	Fixation Cross Sternberg Letters after Encoding	10498768	0	1	12495	3	0	next	other	0
+Fage_P096a	251	Pulse	99	10509127	10359	1
+Fage_P096a	252	Picture	Stroop Sternberg	10511263	0	2	24825	3	0	next	hit	1176
+Fage_P096a	252	Response	1	10518657	7394	1
+Fage_P096a	252	Pulse	99	10521526	10263	1
+Fage_P096a	252	Pulse	99	10533926	22663	1
+Fage_P096a	253	Picture	Fixation Cross Sternberg Letters after Stroop	10536088	0	1	37319	2	0	next	other	0
+Fage_P096a	253	Pulse	99	10546326	10238	1
+Fage_P096a	253	Pulse	99	10558726	22638	1
+Fage_P096a	253	Pulse	99	10571126	35038	1
+Fage_P096a	254	Picture	Retrieval Sternberg Letters	10573407	0	1	24824	2	0	next	hit	1184
+Fage_P096a	254	Response	1	10579625	6218	1
+Fage_P096a	254	Pulse	99	10583525	10118	1
+Fage_P096a	254	Pulse	99	10595925	22518	1
+Fage_P096a	255	Picture	Fixation Cross after Retrieval	10598231	0	1	137116	2	0	next	other	0
+Fage_P096a	255	Pulse	99	10608325	10094	1
+Fage_P096a	255	Pulse	99	10620725	22494	1
+Fage_P096a	255	Pulse	99	10633124	34893	1
+Fage_P096a	255	Pulse	99	10645524	47293	1
+Fage_P096a	255	Pulse	99	10657924	59693	1
+Fage_P096a	255	Pulse	99	10670324	72093	1
+Fage_P096a	255	Pulse	99	10682723	84492	1
+Fage_P096a	255	Pulse	99	10695123	96892	1
+Fage_P096a	255	Pulse	99	10707523	109292	1
+Fage_P096a	255	Pulse	99	10719923	121692	1
+Fage_P096a	255	Pulse	99	10732322	134091	1
+Fage_P096a	256	Picture	Encoding Sternberg Letters	10735347	0	1	24824	2	0	next	other	0
+Fage_P096a	256	Pulse	99	10744722	9375	1
+Fage_P096a	256	Pulse	99	10757122	21775	1
+Fage_P096a	257	Picture	Fixation Cross Sternberg Letters after Encoding	10760171	0	1	12495	3	0	next	other	0
+Fage_P096a	257	Pulse	99	10769522	9351	1
+Fage_P096a	258	Picture	Stroop Sternberg	10772666	0	2	24825	3	0	next	incorrect	1205
+Fage_P096a	258	Response	2	10779872	7206	1
+Fage_P096a	258	Pulse	99	10781921	9255	1
+Fage_P096a	258	Pulse	99	10794321	21655	1
+Fage_P096a	259	Picture	Fixation Cross Sternberg Letters after Stroop	10797491	0	1	37319	2	0	next	other	0
+Fage_P096a	259	Pulse	99	10806721	9230	1
+Fage_P096a	259	Pulse	99	10819121	21630	1
+Fage_P096a	259	Pulse	99	10831521	34030	1
+Fage_P096a	260	Picture	Retrieval Sternberg Letters	10834810	0	1	24824	2	0	next	incorrect	1214
+Fage_P096a	260	Pulse	99	10843920	9110	1
+Fage_P096a	260	Response	2	10845490	10680	1
+Fage_P096a	260	Pulse	99	10856320	21510	1
+Fage_P096a	261	Picture	Fixation Cross after Retrieval	10859634	0	1	112292	2	0	next	other	0
+Fage_P096a	261	Pulse	99	10868720	9086	1
+Fage_P096a	261	Pulse	99	10881120	21486	1
+Fage_P096a	261	Pulse	99	10893519	33885	1
+Fage_P096a	261	Pulse	99	10905919	46285	1
+Fage_P096a	261	Pulse	99	10918319	58685	1
+Fage_P096a	261	Pulse	99	10930719	71085	1
+Fage_P096a	261	Pulse	99	10943119	83485	1
+Fage_P096a	261	Pulse	99	10955518	95884	1
+Fage_P096a	261	Pulse	99	10967918	108284	1
+Fage_P096a	262	Picture	Encoding Sternberg Letters	10971926	0	1	24824	2	0	next	other	0
+Fage_P096a	262	Pulse	99	10980318	8392	1
+Fage_P096a	262	Pulse	99	10992718	20792	1
+Fage_P096a	263	Picture	Fixation Cross Sternberg Letters after Encoding	10996750	0	1	12495	2	0	next	other	0
+Fage_P096a	263	Pulse	99	11005117	8367	1
+Fage_P096a	264	Picture	Stroop Sternberg	11009245	0	1	24825	2	0	next	incorrect	1232
+Fage_P096a	264	Response	2	11015657	6412	1
+Fage_P096a	264	Pulse	99	11017517	8272	1
+Fage_P096a	264	Pulse	99	11029917	20672	1
+Fage_P096a	265	Picture	Fixation Cross Sternberg Letters after Stroop	11034070	0	1	37319	2	0	next	other	0
+Fage_P096a	265	Pulse	99	11042317	8247	1
+Fage_P096a	265	Pulse	99	11054716	20646	1
+Fage_P096a	265	Pulse	99	11067116	33046	1
+Fage_P096a	266	Picture	Retrieval Sternberg Letters	11071389	0	1	24824	2	0	next	incorrect	1241
+Fage_P096a	266	Pulse	99	11079516	8127	1
+Fage_P096a	266	Response	2	11081126	9737	1
+Fage_P096a	266	Pulse	99	11091916	20527	1
+Fage_P096a	267	Picture	Fixation Cross after Retrieval	11096213	0	1	149445	2	0	next	other	0
+Fage_P096a	267	Pulse	99	11104316	8103	1
+Fage_P096a	267	Pulse	99	11116715	20502	1
+Fage_P096a	267	Pulse	99	11129115	32902	1
+Fage_P096a	267	Pulse	99	11141515	45302	1
+Fage_P096a	267	Pulse	99	11153915	57702	1
+Fage_P096a	267	Pulse	99	11166314	70101	1
+Fage_P096a	267	Pulse	99	11178714	82501	1
+Fage_P096a	267	Pulse	99	11191114	94901	1
+Fage_P096a	267	Pulse	99	11203514	107301	1
+Fage_P096a	267	Pulse	99	11215913	119700	1
+Fage_P096a	267	Pulse	99	11228313	132100	1
+Fage_P096a	267	Pulse	99	11240713	144500	1
+Fage_P096a	268	Picture	Encoding Sternberg Letters	11245658	0	1	24824	2	0	next	other	0
+Fage_P096a	268	Pulse	99	11253113	7455	1
+Fage_P096a	268	Pulse	99	11265513	19855	1
+Fage_P096a	269	Picture	Fixation Cross Sternberg Letters after Encoding	11270482	0	1	12495	2	0	next	other	0
+Fage_P096a	269	Pulse	99	11277912	7430	1
+Fage_P096a	270	Picture	Stroop Sternberg	11282977	0	1	24824	2	0	next	incorrect	1263
+Fage_P096a	270	Pulse	99	11290312	7335	1
+Fage_P096a	270	Response	2	11290472	7495	1
+Fage_P096a	270	Pulse	99	11302712	19735	1
+Fage_P096a	271	Picture	Fixation Cross Sternberg Letters after Stroop	11307801	0	1	37320	2	0	next	other	0
+Fage_P096a	271	Pulse	99	11315112	7311	1
+Fage_P096a	271	Pulse	99	11327511	19710	1
+Fage_P096a	271	Pulse	99	11339911	32110	1
+Fage_P096a	272	Picture	Retrieval Sternberg Letters	11345121	0	1	24823	3	0	next	hit	1271
+Fage_P096a	272	Pulse	99	11352311	7190	1
+Fage_P096a	272	Response	1	11352551	7430	1
+Fage_P096a	272	Pulse	99	11364711	19590	1
+Fage_P096a	273	Picture	Fixation Cross after Retrieval	11369944	0	2	124621	3	0	next	other	0
+Fage_P096a	273	Pulse	99	11377110	7166	1
+Fage_P096a	273	Pulse	99	11389510	19566	1
+Fage_P096a	273	Pulse	99	11401910	31966	1
+Fage_P096a	273	Pulse	99	11414310	44366	1
+Fage_P096a	273	Pulse	99	11426709	56765	1
+Fage_P096a	273	Pulse	99	11439109	69165	1
+Fage_P096a	273	Pulse	99	11451509	81565	1
+Fage_P096a	273	Pulse	99	11463909	93965	1
+Fage_P096a	273	Pulse	99	11476309	106365	1
+Fage_P096a	273	Pulse	99	11488708	118764	1
+Fage_P096a	274	Picture	Encoding Sternberg Letters	11494565	0	1	24825	2	0	next	other	0
+Fage_P096a	274	Pulse	99	11501108	6543	1
+Fage_P096a	274	Pulse	99	11513508	18943	1
+Fage_P096a	275	Picture	Fixation Cross Sternberg Letters after Encoding	11519390	0	1	12495	2	0	next	other	0
+Fage_P096a	275	Pulse	99	11525908	6518	1
+Fage_P096a	276	Picture	Stroop Sternberg	11531885	0	1	24824	2	0	next	incorrect	1291
+Fage_P096a	276	Pulse	99	11538307	6422	1
+Fage_P096a	276	Response	2	11539587	7702	1
+Fage_P096a	276	Pulse	99	11550707	18822	1
+Fage_P096a	277	Picture	Fixation Cross Sternberg Letters after Stroop	11556709	0	1	37320	2	0	next	other	0
+Fage_P096a	277	Pulse	99	11563107	6398	1
+Fage_P096a	277	Pulse	99	11575507	18798	1
+Fage_P096a	277	Pulse	99	11587906	31197	1
+Fage_P096a	278	Picture	Retrieval Sternberg Letters	11594029	0	1	24824	2	0	next	hit	1299
+Fage_P096a	278	Pulse	99	11600306	6277	1
+Fage_P096a	278	Response	1	11605336	11307	1
+Fage_P096a	278	Pulse	99	11612706	18677	1
+Fage_P096a	279	Picture	Fixation Cross after Retrieval	11618853	0	1	112291	2	0	next	other	0
+Fage_P096a	279	Pulse	99	11625106	6253	1
+Fage_P096a	279	Pulse	99	11637505	18652	1
+Fage_P096a	279	Pulse	99	11649905	31052	1
+Fage_P096a	279	Pulse	99	11662305	43452	1
+Fage_P096a	279	Pulse	99	11674705	55852	1
+Fage_P096a	279	Pulse	99	11687115	68262	1
+Fage_P096a	279	Pulse	99	11699514	80661	1
+Fage_P096a	279	Pulse	99	11711914	93061	1
+Fage_P096a	279	Pulse	99	11724314	105461	1
+Fage_P096a	280	Picture	Encoding Sternberg Letters	11731144	0	1	24824	3	0	next	other	0
+Fage_P096a	280	Pulse	99	11736714	5570	1
+Fage_P096a	280	Pulse	99	11749113	17969	1
+Fage_P096a	281	Picture	Fixation Cross Sternberg Letters after Encoding	11755968	0	2	12496	3	0	next	other	0
+Fage_P096a	281	Pulse	99	11761513	5545	1
+Fage_P096a	282	Picture	Stroop Sternberg	11768464	0	1	24824	2	0	next	hit	1318
+Fage_P096a	282	Pulse	99	11773913	5449	1
+Fage_P096a	282	Response	1	11778433	9969	1
+Fage_P096a	282	Pulse	99	11786313	17849	1
+Fage_P096a	283	Picture	Fixation Cross Sternberg Letters after Stroop	11793288	0	1	37319	3	0	next	other	0
+Fage_P096a	283	Pulse	99	11798712	5424	1
+Fage_P096a	283	Pulse	99	11811112	17824	1
+Fage_P096a	283	Pulse	99	11823512	30224	1
+Fage_P096a	284	Picture	Retrieval Sternberg Letters	11830607	0	2	24825	3	0	next	hit	1326
+Fage_P096a	284	Pulse	99	11835912	5305	1
+Fage_P096a	284	Response	1	11838352	7745	1
+Fage_P096a	284	Pulse	99	11848311	17704	1
+Fage_P096a	285	Picture	Fixation Cross after Retrieval	11855432	0	1	137115	2	0	next	other	0
+Fage_P096a	285	Pulse	99	11860711	5279	1
+Fage_P096a	285	Pulse	99	11873111	17679	1
+Fage_P096a	285	Pulse	99	11885511	30079	1
+Fage_P096a	285	Pulse	99	11897911	42479	1
+Fage_P096a	285	Pulse	99	11910310	54878	1
+Fage_P096a	285	Pulse	99	11922710	67278	1
+Fage_P096a	285	Pulse	99	11935110	79678	1
+Fage_P096a	285	Pulse	99	11947509	92077	1
+Fage_P096a	285	Pulse	99	11959909	104477	1
+Fage_P096a	285	Pulse	99	11972309	116877	1
+Fage_P096a	285	Pulse	99	11984709	129277	1
+Fage_P096a	286	Picture	Encoding Sternberg Letters	11992547	0	1	24824	3	0	next	other	0
+Fage_P096a	286	Pulse	99	11997109	4562	1
+Fage_P096a	286	Pulse	99	12009509	16962	1
+Fage_P096a	287	Picture	Fixation Cross Sternberg Letters after Encoding	12017371	0	2	12496	3	0	next	other	0
+Fage_P096a	287	Pulse	99	12021908	4537	1
+Fage_P096a	288	Picture	Stroop Sternberg	12029867	0	1	24824	2	0	next	hit	1347
+Fage_P096a	288	Pulse	99	12034308	4441	1
+Fage_P096a	288	Response	1	12036248	6381	1
+Fage_P096a	288	Pulse	99	12046708	16841	1
+Fage_P096a	289	Picture	Fixation Cross Sternberg Letters after Stroop	12054691	0	1	37319	3	0	next	other	0
+Fage_P096a	289	Pulse	99	12059108	4417	1
+Fage_P096a	289	Pulse	99	12071507	16816	1
+Fage_P096a	289	Pulse	99	12083907	29216	1
+Fage_P096a	290	Picture	Retrieval Sternberg Letters	12092010	0	2	24825	3	0	next	incorrect	1355
+Fage_P096a	290	Pulse	99	12096307	4297	1
+Fage_P096a	290	Response	2	12100357	8347	1
+Fage_P096a	290	Pulse	99	12108707	16697	1
+Fage_P096a	291	Picture	Fixation Cross after Retrieval	12116835	0	1	112291	2	0	next	other	0
+Fage_P096a	291	Pulse	99	12121106	4271	1
+Fage_P096a	291	Pulse	99	12133506	16671	1
+Fage_P096a	291	Pulse	99	12145906	29071	1
+Fage_P096a	291	Pulse	99	12158306	41471	1
+Fage_P096a	291	Pulse	99	12170706	53871	1
+Fage_P096a	291	Pulse	99	12183105	66270	1
+Fage_P096a	291	Pulse	99	12195505	78670	1
+Fage_P096a	291	Pulse	99	12207905	91070	1
+Fage_P096a	291	Pulse	99	12220305	103470	1
+Fage_P096a	292	Picture	End Sternberg	12229126	0	1	37320	2	0	next	other	0
+Fage_P096a	292	Pulse	99	12232704	3578	1
+Fage_P096a	292	Pulse	99	12245104	15978	1
+Fage_P096a	292	Pulse	99	12257504	28378	1
+Fage_P096a	293	Picture	Instruction Stroop	12266446	0	1	37319	2	0	next	other	0
+Fage_P096a	293	Pulse	99	12269904	3458	1
+Fage_P096a	293	Pulse	99	12282303	15857	1
+Fage_P096a	293	Pulse	99	12294703	28257	1
+Fage_P096a	294	Picture	stroop neutral close	12303765	0	1	24824	2	0	next	incorrect	1377
+Fage_P096a	294	Pulse	99	12307103	3338	1
+Fage_P096a	294	Response	2	12317963	14198	1
+Fage_P096a	294	Pulse	99	12319503	15738	1
+Fage_P096a	295	Picture	stroop neutral close	12328589	0	1	24825	2	0	next	hit	1381
+Fage_P096a	295	Pulse	99	12331903	3314	1
+Fage_P096a	295	Response	1	12340712	12123	1
+Fage_P096a	295	Pulse	99	12344302	15713	1
+Fage_P096a	296	Picture	stroop neutral close	12353414	0	1	24824	2	0	next	incorrect	1385
+Fage_P096a	296	Pulse	99	12356702	3288	1
+Fage_P096a	296	Response	2	12364602	11188	1
+Fage_P096a	296	Pulse	99	12369102	15688	1
+Fage_P096a	297	Picture	stroop neutral close	12378238	0	1	24824	2	0	next	incorrect	1389
+Fage_P096a	297	Pulse	99	12381502	3264	1
+Fage_P096a	297	Response	2	12391301	13063	1
+Fage_P096a	297	Pulse	99	12393901	15663	1
+Fage_P096a	298	Picture	stroop neutral close	12403062	0	1	24990	3	0	next	hit	1393
+Fage_P096a	298	Pulse	99	12406301	3239	1
+Fage_P096a	298	Response	1	12412121	9059	1
+Fage_P096a	298	Pulse	99	12418701	15639	1
+Fage_P096a	299	Picture	stroop neutral close	12428052	0	2	24825	3	0	next	incorrect	1397
+Fage_P096a	299	Pulse	99	12431101	3049	1
+Fage_P096a	299	Response	2	12437930	9878	1
+Fage_P096a	299	Pulse	99	12443500	15448	1
+Fage_P096a	300	Picture	Fixation Cross Stroop	12452877	0	1	124620	2	0	next	other	0
+Fage_P096a	300	Pulse	99	12455900	3023	1
+Fage_P096a	300	Pulse	99	12468300	15423	1
+Fage_P096a	300	Pulse	99	12480700	27823	1
+Fage_P096a	300	Pulse	99	12493099	40222	1
+Fage_P096a	300	Pulse	99	12505499	52622	1
+Fage_P096a	300	Pulse	99	12517899	65022	1
+Fage_P096a	300	Pulse	99	12530299	77422	1
+Fage_P096a	300	Pulse	99	12542698	89821	1
+Fage_P096a	300	Pulse	99	12555098	102221	1
+Fage_P096a	300	Pulse	99	12567498	114621	1
+Fage_P096a	301	Picture	stroop neutral close	12577497	0	1	24824	3	0	next	hit	1412
+Fage_P096a	301	Pulse	99	12579898	2401	1
+Fage_P096a	301	Response	1	12584868	7371	1
+Fage_P096a	301	Pulse	99	12592298	14801	1
+Fage_P096a	302	Picture	stroop neutral close	12602321	0	2	24824	3	0	next	incorrect	1416
+Fage_P096a	302	Pulse	99	12604697	2376	1
+Fage_P096a	302	Response	2	12612937	10616	1
+Fage_P096a	302	Pulse	99	12617097	14776	1
+Fage_P096a	303	Picture	stroop neutral close	12627145	0	1	24824	3	0	next	incorrect	1420
+Fage_P096a	303	Pulse	99	12629497	2352	1
+Fage_P096a	303	Response	2	12635977	8832	1
+Fage_P096a	303	Pulse	99	12641897	14752	1
+Fage_P096a	304	Picture	stroop neutral close	12651969	0	2	24825	3	0	next	incorrect	1424
+Fage_P096a	304	Pulse	99	12654296	2327	1
+Fage_P096a	304	Response	2	12660386	8417	1
+Fage_P096a	304	Pulse	99	12666696	14727	1
+Fage_P096a	305	Picture	stroop neutral close	12676794	0	1	24990	3	0	next	hit	1428
+Fage_P096a	305	Pulse	99	12679096	2302	1
+Fage_P096a	305	Response	1	12684576	7782	1
+Fage_P096a	305	Pulse	99	12691496	14702	1
+Fage_P096a	306	Picture	stroop neutral close	12701784	0	2	24824	4	0	next	incorrect	1432
+Fage_P096a	306	Pulse	99	12703896	2112	1
+Fage_P096a	306	Response	2	12710915	9131	1
+Fage_P096a	306	Pulse	99	12716295	14511	1
+Fage_P096a	307	Picture	Fixation Cross Stroop	12726608	0	2	124621	3	0	next	other	0
+Fage_P096a	307	Pulse	99	12728695	2087	1
+Fage_P096a	307	Pulse	99	12741095	14487	1
+Fage_P096a	307	Pulse	99	12753495	26887	1
+Fage_P096a	307	Pulse	99	12765894	39286	1
+Fage_P096a	307	Pulse	99	12778294	51686	1
+Fage_P096a	307	Pulse	99	12790694	64086	1
+Fage_P096a	307	Pulse	99	12803094	76486	1
+Fage_P096a	307	Pulse	99	12815493	88885	1
+Fage_P096a	307	Pulse	99	12827893	101285	1
+Fage_P096a	307	Pulse	99	12840293	113685	1
+Fage_P096a	308	Picture	stroop neutral close	12851229	0	1	24824	2	0	next	hit	1447
+Fage_P096a	308	Pulse	99	12852693	1464	1
+Fage_P096a	308	Response	1	12858422	7193	1
+Fage_P096a	308	Pulse	99	12865092	13863	1
+Fage_P096a	309	Picture	stroop neutral close	12876053	0	1	24824	2	0	next	incorrect	1451
+Fage_P096a	309	Pulse	99	12877492	1439	1
+Fage_P096a	309	Response	2	12883142	7089	1
+Fage_P096a	309	Pulse	99	12889892	13839	1
+Fage_P096a	310	Picture	stroop neutral close	12900877	0	1	24824	2	0	next	incorrect	1455
+Fage_P096a	310	Pulse	99	12902292	1415	1
+Fage_P096a	310	Response	2	12909882	9005	1
+Fage_P096a	310	Pulse	99	12914691	13814	1
+Fage_P096a	311	Picture	stroop neutral close	12925701	0	1	24824	2	0	next	incorrect	1459
+Fage_P096a	311	Pulse	99	12927091	1390	1
+Fage_P096a	311	Response	2	12933841	8140	1
+Fage_P096a	311	Pulse	99	12939491	13790	1
+Fage_P096a	312	Picture	stroop neutral close	12950525	0	1	24825	2	0	next	hit	1463
+Fage_P096a	312	Pulse	99	12951891	1366	1
+Fage_P096a	312	Response	1	12958441	7916	1
+Fage_P096a	312	Pulse	99	12964290	13765	1
+Fage_P096a	313	Picture	stroop neutral close	12975350	0	1	24824	2	0	next	hit	1467
+Fage_P096a	313	Pulse	99	12976690	1340	1
+Fage_P096a	313	Response	1	12982840	7490	1
+Fage_P096a	313	Pulse	99	12989090	13740	1
+Fage_P096a	314	Picture	Fixation Cross Stroop	13000174	0	1	124620	2	0	next	other	0
+Fage_P096a	314	Pulse	99	13001490	1316	1
+Fage_P096a	314	Pulse	99	13013890	13716	1
+Fage_P096a	314	Pulse	99	13026289	26115	1
+Fage_P096a	314	Pulse	99	13038689	38515	1
+Fage_P096a	314	Pulse	99	13051089	50915	1
+Fage_P096a	314	Pulse	99	13063489	63315	1
+Fage_P096a	314	Pulse	99	13075889	75715	1
+Fage_P096a	314	Pulse	99	13088288	88114	1
+Fage_P096a	314	Pulse	99	13100688	100514	1
+Fage_P096a	314	Pulse	99	13113088	112914	1
+Fage_P096a	315	Picture	stroop neutral close	13124794	0	1	24824	2	0	next	incorrect	1482
+Fage_P096a	315	Pulse	99	13125487	693	1
+Fage_P096a	315	Response	2	13132147	7353	1
+Fage_P096a	315	Pulse	99	13137887	13093	1
+Fage_P096a	316	Picture	stroop neutral close	13149618	0	1	24824	2	0	next	hit	1486
+Fage_P096a	316	Pulse	99	13150287	669	1
+Fage_P096a	316	Response	1	13158727	9109	1
+Fage_P096a	316	Pulse	99	13162687	13069	1
+Fage_P096a	317	Picture	stroop neutral close	13174442	0	1	24824	3	0	next	incorrect	1490
+Fage_P096a	317	Pulse	99	13175087	645	1
+Fage_P096a	317	Response	2	13181617	7175	1
+Fage_P096a	317	Pulse	99	13187486	13044	1
+Fage_P096a	318	Picture	stroop neutral close	13199266	0	2	24825	3	0	next	incorrect	1494
+Fage_P096a	318	Pulse	99	13199886	620	1
+Fage_P096a	318	Response	2	13206446	7180	1
+Fage_P096a	318	Pulse	99	13212286	13020	1
+Fage_P096a	319	Picture	stroop neutral close	13224091	0	1	24824	2	0	next	incorrect	1498
+Fage_P096a	319	Pulse	99	13224686	595	1
+Fage_P096a	319	Response	2	13231635	7544	1
+Fage_P096a	319	Pulse	99	13237085	12994	1
+Fage_P096a	320	Picture	stroop neutral close	13248915	0	1	24824	2	0	next	incorrect	1502
+Fage_P096a	320	Pulse	99	13249485	570	1
+Fage_P096a	320	Response	2	13258425	9510	1
+Fage_P096a	320	Pulse	99	13261885	12970	1
+Fage_P096a	321	Picture	Fixation Cross Stroop	13273739	0	1	124620	2	0	next	other	0
+Fage_P096a	321	Pulse	99	13274285	546	1
+Fage_P096a	321	Pulse	99	13286685	12946	1
+Fage_P096a	321	Pulse	99	13299084	25345	1
+Fage_P096a	321	Pulse	99	13311484	37745	1
+Fage_P096a	321	Pulse	99	13323884	50145	1
+Fage_P096a	321	Pulse	99	13336284	62545	1
+Fage_P096a	321	Pulse	99	13348683	74944	1
+Fage_P096a	321	Pulse	99	13361083	87344	1
+Fage_P096a	321	Pulse	99	13373483	99744	1
+Fage_P096a	321	Pulse	99	13385883	112144	1
+Fage_P096a	321	Pulse	99	13398282	124543	1
+Fage_P096a	322	Picture	stroop maximum incongruent	13398359	0	1	24824	2	0	next	hit	1517
+Fage_P096a	322	Response	1	13409562	11203	1
+Fage_P096a	322	Pulse	99	13410682	12323	1
+Fage_P096a	322	Pulse	99	13423082	24723	1
+Fage_P096a	323	Picture	stroop maximum incongruent	13423183	0	1	24825	2	0	next	hit	1521
+Fage_P096a	323	Response	1	13432302	9119	1
+Fage_P096a	323	Pulse	99	13435482	12299	1
+Fage_P096a	323	Pulse	99	13447882	24699	1
+Fage_P096a	324	Picture	stroop maximum incongruent	13448008	0	1	24824	2	0	next	hit	1525
+Fage_P096a	324	Response	1	13457121	9113	1
+Fage_P096a	324	Pulse	99	13460281	12273	1
+Fage_P096a	324	Pulse	99	13472681	24673	1
+Fage_P096a	325	Picture	stroop maximum incongruent	13472832	0	1	24824	2	0	next	incorrect	1529
+Fage_P096a	325	Response	2	13481141	8309	1
+Fage_P096a	325	Pulse	99	13485081	12249	1
+Fage_P096a	325	Pulse	99	13497481	24649	1
+Fage_P096a	326	Picture	stroop maximum incongruent	13497656	0	1	24824	2	0	next	hit	1533
+Fage_P096a	326	Response	1	13505470	7814	1
+Fage_P096a	326	Pulse	99	13509880	12224	1
+Fage_P096a	326	Pulse	99	13522280	24624	1
+Fage_P096a	327	Picture	stroop maximum incongruent	13522480	0	1	24823	3	0	next	incorrect	1537
+Fage_P096a	327	Response	2	13530610	8130	1
+Fage_P096a	327	Pulse	99	13534690	12210	1
+Fage_P096a	327	Pulse	99	13547090	24610	1
+Fage_P096a	328	Picture	Fixation Cross Stroop	13547303	0	2	124622	3	0	next	other	0
+Fage_P096a	328	Pulse	99	13559489	12186	1
+Fage_P096a	328	Pulse	99	13571889	24586	1
+Fage_P096a	328	Pulse	99	13584289	36986	1
+Fage_P096a	328	Pulse	99	13596689	49386	1
+Fage_P096a	328	Pulse	99	13609089	61786	1
+Fage_P096a	328	Pulse	99	13621488	74185	1
+Fage_P096a	328	Pulse	99	13633888	86585	1
+Fage_P096a	328	Pulse	99	13646288	98985	1
+Fage_P096a	328	Pulse	99	13658688	111385	1
+Fage_P096a	328	Pulse	99	13671087	123784	1
+Fage_P096a	329	Picture	stroop maximum incongruent	13671925	0	1	24824	2	0	next	incorrect	1552
+Fage_P096a	329	Response	2	13680227	8302	1
+Fage_P096a	329	Pulse	99	13683487	11562	1
+Fage_P096a	329	Pulse	99	13695887	23962	1
+Fage_P096a	330	Picture	stroop maximum incongruent	13696749	0	1	24824	2	0	next	incorrect	1556
+Fage_P096a	330	Response	2	13706547	9798	1
+Fage_P096a	330	Pulse	99	13708286	11537	1
+Fage_P096a	330	Pulse	99	13720686	23937	1
+Fage_P096a	331	Picture	stroop maximum incongruent	13721573	0	1	24824	2	0	next	hit	1560
+Fage_P096a	331	Response	1	13729636	8063	1
+Fage_P096a	331	Pulse	99	13733086	11513	1
+Fage_P096a	331	Pulse	99	13745486	23913	1
+Fage_P096a	332	Picture	stroop maximum incongruent	13746397	0	1	24824	2	0	next	hit	1564
+Fage_P096a	332	Response	1	13753906	7509	1
+Fage_P096a	332	Pulse	99	13757886	11489	1
+Fage_P096a	332	Pulse	99	13770285	23888	1
+Fage_P096a	333	Picture	stroop maximum incongruent	13771221	0	1	24824	2	0	next	hit	1568
+Fage_P096a	333	Response	1	13781625	10404	1
+Fage_P096a	333	Pulse	99	13782685	11464	1
+Fage_P096a	333	Pulse	99	13795085	23864	1
+Fage_P096a	334	Picture	stroop maximum incongruent	13796045	0	1	24824	2	0	next	incorrect	1572
+Fage_P096a	334	Response	2	13803465	7420	1
+Fage_P096a	334	Pulse	99	13807485	11440	1
+Fage_P096a	334	Pulse	99	13819885	23840	1
+Fage_P096a	335	Picture	Fixation Cross Stroop	13820869	0	1	124621	2	0	next	other	0
+Fage_P096a	335	Pulse	99	13832284	11415	1
+Fage_P096a	335	Pulse	99	13844684	23815	1
+Fage_P096a	335	Pulse	99	13857084	36215	1
+Fage_P096a	335	Pulse	99	13869484	48615	1
+Fage_P096a	335	Pulse	99	13881883	61014	1
+Fage_P096a	335	Pulse	99	13894283	73414	1
+Fage_P096a	335	Pulse	99	13906683	85814	1
+Fage_P096a	335	Pulse	99	13919083	98214	1
+Fage_P096a	335	Pulse	99	13931482	110613	1
+Fage_P096a	335	Pulse	99	13943882	123013	1
+Fage_P096a	336	Picture	stroop maximum incongruent	13945490	0	1	24824	2	0	next	hit	1587
+Fage_P096a	336	Response	1	13952982	7492	1
+Fage_P096a	336	Pulse	99	13956282	10792	1
+Fage_P096a	336	Pulse	99	13968682	23192	1
+Fage_P096a	337	Picture	stroop maximum incongruent	13970314	0	1	24824	2	0	next	hit	1591
+Fage_P096a	337	Response	1	13979972	9658	1
+Fage_P096a	337	Pulse	99	13981081	10767	1
+Fage_P096a	337	Pulse	99	13993481	23167	1
+Fage_P096a	338	Picture	stroop maximum incongruent	13995138	0	1	24991	2	0	next	incorrect	1595
+Fage_P096a	338	Response	2	14002971	7833	1
+Fage_P096a	338	Pulse	99	14005881	10743	1
+Fage_P096a	338	Pulse	99	14018281	23143	1
+Fage_P096a	339	Picture	stroop maximum incongruent	14020129	0	1	24824	2	0	next	hit	1599
+Fage_P096a	339	Response	1	14027801	7672	1
+Fage_P096a	339	Pulse	99	14030680	10551	1
+Fage_P096a	339	Pulse	99	14043080	22951	1
+Fage_P096a	340	Picture	stroop maximum incongruent	14044953	0	1	24824	2	0	next	hit	1603
+Fage_P096a	340	Response	1	14053050	8097	1
+Fage_P096a	340	Pulse	99	14055480	10527	1
+Fage_P096a	340	Pulse	99	14067880	22927	1
+Fage_P096a	341	Picture	stroop maximum incongruent	14069777	0	1	24824	2	0	next	incorrect	1607
+Fage_P096a	341	Response	2	14077970	8193	1
+Fage_P096a	341	Pulse	99	14080279	10502	1
+Fage_P096a	341	Pulse	99	14092679	22902	1
+Fage_P096a	342	Picture	Fixation Cross Stroop	14094601	0	1	124620	3	0	next	other	0
+Fage_P096a	342	Pulse	99	14105079	10478	1
+Fage_P096a	342	Pulse	99	14117479	22878	1
+Fage_P096a	342	Pulse	99	14129879	35278	1
+Fage_P096a	342	Pulse	99	14142278	47677	1
+Fage_P096a	342	Pulse	99	14154678	60077	1
+Fage_P096a	342	Pulse	99	14167078	72477	1
+Fage_P096a	342	Pulse	99	14179478	84877	1
+Fage_P096a	342	Pulse	99	14191878	97277	1
+Fage_P096a	342	Pulse	99	14204277	109676	1
+Fage_P096a	342	Pulse	99	14216677	122076	1
+Fage_P096a	343	Picture	stroop maximum incongruent	14219221	0	2	24825	3	0	next	incorrect	1622
+Fage_P096a	343	Response	2	14228857	9636	1
+Fage_P096a	343	Pulse	99	14229077	9856	1
+Fage_P096a	343	Pulse	99	14241476	22255	1
+Fage_P096a	344	Picture	stroop maximum incongruent	14244046	0	1	24824	2	0	next	hit	1626
+Fage_P096a	344	Response	1	14249767	5721	1
+Fage_P096a	344	Pulse	99	14253876	9830	1
+Fage_P096a	344	Pulse	99	14266276	22230	1
+Fage_P096a	345	Picture	stroop maximum incongruent	14268870	0	1	24824	2	0	next	incorrect	1630
+Fage_P096a	345	Response	2	14276266	7396	1
+Fage_P096a	345	Pulse	99	14278676	9806	1
+Fage_P096a	345	Pulse	99	14291076	22206	1
+Fage_P096a	346	Picture	stroop maximum incongruent	14293694	0	1	24991	2	0	next	incorrect	1634
+Fage_P096a	346	Response	2	14302875	9181	1
+Fage_P096a	346	Pulse	99	14303475	9781	1
+Fage_P096a	346	Pulse	99	14315875	22181	1
+Fage_P096a	347	Picture	stroop maximum incongruent	14318685	0	1	24824	2	0	next	incorrect	1639
+Fage_P096a	347	Pulse	99	14328275	9590	1
+Fage_P096a	347	Response	2	14328415	9730	1
+Fage_P096a	347	Pulse	99	14340675	21990	1
+Fage_P096a	348	Picture	stroop maximum incongruent	14343509	0	1	24824	2	0	next	incorrect	1642
+Fage_P096a	348	Response	2	14351935	8426	1
+Fage_P096a	348	Pulse	99	14353074	9565	1
+Fage_P096a	348	Pulse	99	14365474	21965	1
+Fage_P096a	349	Picture	Fixation Cross Stroop	14368333	0	1	124620	2	0	next	other	0
+Fage_P096a	349	Pulse	99	14377874	9541	1
+Fage_P096a	349	Pulse	99	14390274	21941	1
+Fage_P096a	349	Pulse	99	14402674	34341	1
+Fage_P096a	349	Pulse	99	14415073	46740	1
+Fage_P096a	349	Pulse	99	14427473	59140	1
+Fage_P096a	349	Pulse	99	14439873	71540	1
+Fage_P096a	349	Pulse	99	14452273	83940	1
+Fage_P096a	349	Pulse	99	14464672	96339	1
+Fage_P096a	349	Pulse	99	14477072	108739	1
+Fage_P096a	349	Pulse	99	14489472	121139	1
+Fage_P096a	350	Picture	End Stroop	14492953	0	1	43936	2	0	next	other	0
+Fage_P096a	350	Pulse	99	14501872	8919	1
+Fage_P096a	350	Pulse	99	14514272	21319	1
+Fage_P096a	350	Pulse	99	14526671	33718	1
